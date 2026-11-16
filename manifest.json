@@ -1476,6 +1476,23 @@
      },
      "thumb": "files/c9021ecd39868fc2.webp",
      "layer": 5
+    },
+    {
+     "id": "アニメ/ドレス/きらきらほうせきドレス",
+     "name": "きらきらほうせきドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/c17b75fa32a87f21.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 19,
+       "y": 171,
+       "w": 988,
+       "h": 843
+      }
+     },
+     "thumb": "files/7400a3f192e91be2.webp"
     }
    ],
    "backgrounds": [
