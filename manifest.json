@@ -1510,6 +1510,23 @@
       }
      },
      "thumb": "files/d05db3eb69b5bbcf.webp"
+    },
+    {
+     "id": "アニメ/ドレス/ゆめいろマーメイド",
+     "name": "ゆめいろマーメイド",
+     "category": "ドレス",
+     "image": {
+      "file": "files/10ffe0f5cb930309.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 280,
+       "y": 238,
+       "w": 468,
+       "h": 718
+      }
+     },
+     "thumb": "files/c6ed3f0baad0796c.webp"
     }
    ],
    "backgrounds": [
