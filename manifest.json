@@ -1578,6 +1578,23 @@
       }
      },
      "thumb": "files/d292bac6380afa57.webp"
+    },
+    {
+     "id": "アニメ/てぶくろ/もふもふねこてぶくろ",
+     "name": "もふもふねこてぶくろ",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/68b9959cf27c7830.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 247,
+       "y": 436,
+       "w": 532,
+       "h": 146
+      }
+     },
+     "thumb": "files/901d44aeb8cfcf76.webp"
     }
    ],
    "backgrounds": [
