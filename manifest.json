@@ -1493,6 +1493,23 @@
       }
      },
      "thumb": "files/7400a3f192e91be2.webp"
+    },
+    {
+     "id": "アニメ/かお/しんじゅのキラキラがお",
+     "name": "しんじゅのキラキラがお",
+     "category": "かお",
+     "image": {
+      "file": "files/0ba60ee6068d6280.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 444,
+       "y": 63,
+       "w": 161,
+       "h": 87
+      }
+     },
+     "thumb": "files/d05db3eb69b5bbcf.webp"
     }
    ],
    "backgrounds": [
