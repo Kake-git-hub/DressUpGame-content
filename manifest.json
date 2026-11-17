@@ -19,8 +19,8 @@
     {
      "id": "かお",
      "label": "かお",
-     "layer": 10,
-     "menuOrder": 1,
+     "layer": 6,
+     "menuOrder": 0,
      "overlap": false,
      "movable": false
     },
