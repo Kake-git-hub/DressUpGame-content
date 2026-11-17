@@ -1595,6 +1595,23 @@
       }
      },
      "thumb": "files/393c48ec1c5d0bce.webp"
+    },
+    {
+     "id": "アニメ/くつ/うみのきらきらバレエ",
+     "name": "うみのきらきらバレエ",
+     "category": "くつ",
+     "image": {
+      "file": "files/1b92bdb373f404d8.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 428,
+       "y": 514,
+       "w": 170,
+       "h": 496
+      }
+     },
+     "thumb": "files/34e4f1d785c498ac.webp"
     }
    ],
    "backgrounds": [
