@@ -1544,6 +1544,40 @@
       }
      },
      "thumb": "files/fdd732c1cda265b8.webp"
+    },
+    {
+     "id": "アニメ/ボトムス/デニムショートパンツ",
+     "name": "デニムショートパンツ",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/501fc74f5fd4cd5c.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 405,
+       "y": 379,
+       "w": 217,
+       "h": 175
+      }
+     },
+     "thumb": "files/29be0624a5cb4209.webp"
+    },
+    {
+     "id": "アニメ/てぶくろ/マーメイドグローブ",
+     "name": "マーメイドグローブ",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/6a7a058a23a79fe9.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 279,
+       "y": 265,
+       "w": 469,
+       "h": 284
+      }
+     },
+     "thumb": "files/d292bac6380afa57.webp"
     }
    ],
    "backgrounds": [
