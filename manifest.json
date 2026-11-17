@@ -1612,6 +1612,23 @@
       }
      },
      "thumb": "files/34e4f1d785c498ac.webp"
+    },
+    {
+     "id": "アニメ/ソックス/きらきらさんごソックス",
+     "name": "きらきらさんごソックス",
+     "category": "ソックス",
+     "image": {
+      "file": "files/5a861e3f18c037a9.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 414,
+       "y": 533,
+       "w": 199,
+       "h": 471
+      }
+     },
+     "thumb": "files/a06a5e4ebf6b2262.webp"
     }
    ],
    "backgrounds": [
