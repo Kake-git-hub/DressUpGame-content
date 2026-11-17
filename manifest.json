@@ -1527,6 +1527,23 @@
       }
      },
      "thumb": "files/c6ed3f0baad0796c.webp"
+    },
+    {
+     "id": "アニメ/くつ/きらきらマーメイドぐつ",
+     "name": "きらきらマーメイドぐつ",
+     "category": "くつ",
+     "image": {
+      "file": "files/0ff2b39b59b2383d.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 434,
+       "y": 898,
+       "w": 158,
+       "h": 119
+      }
+     },
+     "thumb": "files/fdd732c1cda265b8.webp"
     }
    ],
    "backgrounds": [
