@@ -2262,6 +2262,682 @@
     }
    ],
    "backgrounds": []
+  },
+  {
+   "id": "アニメ　その２",
+   "name": "アニメ　その２",
+   "image": {
+    "file": "files/2e5ca8f579d6cc54.webp",
+    "canvasW": 1024,
+    "canvasH": 1024,
+    "box": {
+     "x": 285,
+     "y": 21,
+     "w": 455,
+     "h": 983
+    }
+   },
+   "categories": [
+    {
+     "id": "かお",
+     "label": "かお",
+     "layer": 6,
+     "menuOrder": 0,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "アクセサリー",
+     "label": "アクセサリー",
+     "layer": 11,
+     "menuOrder": 10,
+     "overlap": true,
+     "movable": false
+    },
+    {
+     "id": "ぼうし",
+     "label": "ぼうし",
+     "layer": 11,
+     "menuOrder": 9,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "てぶくろ",
+     "label": "てぶくろ",
+     "layer": 1,
+     "menuOrder": 3,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "ソックス",
+     "label": "ソックス",
+     "layer": 1,
+     "menuOrder": 3,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "インナー",
+     "label": "インナー",
+     "layer": 2,
+     "menuOrder": 4,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "くつ",
+     "label": "くつ",
+     "layer": 2,
+     "menuOrder": 7,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "ボトムス",
+     "label": "ボトムス",
+     "layer": 3,
+     "menuOrder": 6,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "ドレス",
+     "label": "ドレス",
+     "layer": 4,
+     "menuOrder": 2,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "トップス",
+     "label": "トップス",
+     "layer": 4,
+     "menuOrder": 5,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "ヘアスタイル",
+     "label": "ヘアスタイル",
+     "layer": 11,
+     "menuOrder": 11,
+     "overlap": false,
+     "movable": false
+    }
+   ],
+   "items": [
+    {
+     "id": "アニメ　その２/くつ/あかいリボンのパンプス",
+     "name": "あかいリボンのパンプス",
+     "category": "くつ",
+     "image": {
+      "file": "files/7c1221b1a8e43899.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 548,
+       "y": 1011,
+       "w": 133,
+       "h": 99
+      }
+     },
+     "thumb": "files/8785492f90281273.webp",
+     "hide": {
+      "file": "files/a90ba5aba4c4b7c3.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 445,
+       "y": 934,
+       "w": 135,
+       "h": 70
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/ピンクのツインテール",
+     "name": "ピンクのツインテール",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/dbcddd83f3027ed6.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 548,
+       "y": 118,
+       "w": 133,
+       "h": 76
+      }
+     },
+     "thumb": "files/28ac59d32e56d96e.webp",
+     "back": {
+      "file": "files/826dd8781d218a43.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 392,
+       "y": 58,
+       "w": 446,
+       "h": 428
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/ぼうし/むぎわらぼうし",
+     "name": "むぎわらぼうし",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/13f0827d9e2430a9.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 432,
+       "y": 72,
+       "w": 371,
+       "h": 165
+      }
+     },
+     "thumb": "files/cb628fc6f237717e.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/そらいろスニーカー",
+     "name": "そらいろスニーカー",
+     "category": "くつ",
+     "image": {
+      "file": "files/fee1b594bacd0e89.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 547,
+       "y": 851,
+       "w": 135,
+       "h": 257
+      }
+     },
+     "thumb": "files/c3e04c04a875c25d.webp",
+     "hide": {
+      "file": "files/a90ba5aba4c4b7c3.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 445,
+       "y": 934,
+       "w": 135,
+       "h": 70
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/くつ/ひまわりサンダル",
+     "name": "ひまわりサンダル",
+     "category": "くつ",
+     "image": {
+      "file": "files/1f20f2ccc97bd68b.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 545,
+       "y": 979,
+       "w": 139,
+       "h": 139
+      }
+     },
+     "thumb": "files/a64a1b180341c2bb.webp",
+     "hide": {
+      "file": "files/a90ba5aba4c4b7c3.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 445,
+       "y": 934,
+       "w": 135,
+       "h": 70
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/くつ/きいろいながぐつ",
+     "name": "きいろいながぐつ",
+     "category": "くつ",
+     "image": {
+      "file": "files/236730dd820e3ee4.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 543,
+       "y": 913,
+       "w": 143,
+       "h": 196
+      }
+     },
+     "thumb": "files/e5fb1afef43a2191.webp",
+     "hide": {
+      "file": "files/a90ba5aba4c4b7c3.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 445,
+       "y": 934,
+       "w": 135,
+       "h": 70
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/くつ/リボンのバレエシューズ",
+     "name": "リボンのバレエシューズ",
+     "category": "くつ",
+     "image": {
+      "file": "files/b68cef7fe166780f.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 548,
+       "y": 884,
+       "w": 133,
+       "h": 230
+      }
+     },
+     "thumb": "files/6e045b16f2b17fe3.webp",
+     "hide": {
+      "file": "files/a90ba5aba4c4b7c3.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 445,
+       "y": 934,
+       "w": 135,
+       "h": 70
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/くろかみボブ",
+     "name": "くろかみボブ",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/5437f18606299388.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 548,
+       "y": 118,
+       "w": 133,
+       "h": 88
+      }
+     },
+     "thumb": "files/16416c1a12719056.webp",
+     "back": {
+      "file": "files/42906b2e5e8a2509.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 499,
+       "y": 77,
+       "w": 232,
+       "h": 235
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/ちゃいろのロング",
+     "name": "ちゃいろのロング",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/9bec2a6334dc1253.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 548,
+       "y": 123,
+       "w": 132,
+       "h": 63
+      }
+     },
+     "thumb": "files/ee0c8ccb76a37651.webp",
+     "back": {
+      "file": "files/83ca17db4059b83b.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 408,
+       "y": 55,
+       "w": 414,
+       "h": 535
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/きんいろみつあみ",
+     "name": "きんいろみつあみ",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/1601713f9a08f3fb.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 574,
+       "y": 118,
+       "w": 106,
+       "h": 77
+      }
+     },
+     "thumb": "files/899f70dd8137ad59.webp",
+     "back": {
+      "file": "files/22394187102244b7.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 485,
+       "y": 55,
+       "w": 259,
+       "h": 510
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/むらさきポニーテール",
+     "name": "むらさきポニーテール",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/c27e6887a34618c5.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 547,
+       "y": 118,
+       "w": 143,
+       "h": 133
+      }
+     },
+     "thumb": "files/6f9720d62d4288f8.webp",
+     "back": {
+      "file": "files/7b6844493b7d516e.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 485,
+       "y": 17,
+       "w": 353,
+       "h": 442
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/かお/にこにこえがお",
+     "name": "にこにこえがお",
+     "category": "かお",
+     "image": {
+      "file": "files/27abd825fb36f2ac.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 544,
+       "y": 123,
+       "w": 141,
+       "h": 154
+      }
+     },
+     "thumb": "files/c46b8dbd08e7c2f9.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/おすましウインク",
+     "name": "おすましウインク",
+     "category": "かお",
+     "image": {
+      "file": "files/4fec850c46a68ab0.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 544,
+       "y": 123,
+       "w": 141,
+       "h": 154
+      }
+     },
+     "thumb": "files/bf82cba9b4ecc19e.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/きらきらおめめ",
+     "name": "きらきらおめめ",
+     "category": "かお",
+     "image": {
+      "file": "files/87ccd79c93936efa.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 544,
+       "y": 123,
+       "w": 141,
+       "h": 154
+      }
+     },
+     "thumb": "files/a3d04d9e49b19862.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/セーラーふく",
+     "name": "セーラーふく",
+     "category": "トップス",
+     "image": {
+      "file": "files/d4f6d4036c0fbed4.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 484,
+       "y": 282,
+       "w": 261,
+       "h": 256
+      }
+     },
+     "thumb": "files/b8416913be6c1a94.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/もこもこパーカー",
+     "name": "もこもこパーカー",
+     "category": "トップス",
+     "image": {
+      "file": "files/1969beb15a82db1a.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 431,
+       "y": 260,
+       "w": 367,
+       "h": 374
+      }
+     },
+     "thumb": "files/63c554b1a06b5695.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/チェックのスカート",
+     "name": "チェックのスカート",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/0c23007660bb1c34.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 466,
+       "y": 466,
+       "w": 296,
+       "h": 265
+      }
+     },
+     "thumb": "files/a7c5e32762940637.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/デニムのショートパンツ",
+     "name": "デニムのショートパンツ",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/800a499ef88cf366.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 504,
+       "y": 502,
+       "w": 219,
+       "h": 161
+      }
+     },
+     "thumb": "files/bf95903aca5f3545.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/プリンセスドレス",
+     "name": "プリンセスドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/951cfd6eeddca0a8.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 185,
+       "y": 290,
+       "w": 859,
+       "h": 796
+      }
+     },
+     "thumb": "files/7786c7415d7f54f0.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/あおいワンピース",
+     "name": "あおいワンピース",
+     "category": "ドレス",
+     "image": {
+      "file": "files/03b6a98bb2026c78.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 382,
+       "y": 122,
+       "w": 464,
+       "h": 984
+      }
+     },
+     "thumb": "files/a2616504fb7bf968.webp"
+    },
+    {
+     "id": "アニメ　その２/ソックス/しろいハイソックス",
+     "name": "しろいハイソックス",
+     "category": "ソックス",
+     "image": {
+      "file": "files/4fcb76bf69afaed7.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 529,
+       "y": 632,
+       "w": 169,
+       "h": 474
+      }
+     },
+     "thumb": "files/266d8ef8000d3813.webp"
+    },
+    {
+     "id": "アニメ　その２/ソックス/しましまタイツ",
+     "name": "しましまタイツ",
+     "category": "ソックス",
+     "image": {
+      "file": "files/d98de4aa539ce142.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 517,
+       "y": 481,
+       "w": 195,
+       "h": 626
+      }
+     },
+     "thumb": "files/0b33c891937b5ba9.webp"
+    },
+    {
+     "id": "アニメ　その２/てぶくろ/しろいレースのてぶくろ",
+     "name": "しろいレースのてぶくろ",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/dd209f63ce5861c9.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 388,
+       "y": 422,
+       "w": 454,
+       "h": 241
+      }
+     },
+     "thumb": "files/ffac358d9386f41d.webp",
+     "hide": {
+      "file": "files/6fd41c65cc0fbf23.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 285,
+       "y": 487,
+       "w": 455,
+       "h": 73
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/てぶくろ/むらさきのロンググローブ",
+     "name": "むらさきのロンググローブ",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/91267a10757dd184.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 388,
+       "y": 414,
+       "w": 454,
+       "h": 249
+      }
+     },
+     "thumb": "files/af9c2ce41ffe8c84.webp",
+     "hide": {
+      "file": "files/6fd41c65cc0fbf23.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 285,
+       "y": 487,
+       "w": 455,
+       "h": 73
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/てぶくろ/あかいミトン",
+     "name": "あかいミトン",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/62509daa2b043b38.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 389,
+       "y": 415,
+       "w": 452,
+       "h": 253
+      }
+     },
+     "thumb": "files/262a0fbf25109522.webp",
+     "hide": {
+      "file": "files/6fd41c65cc0fbf23.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 285,
+       "y": 487,
+       "w": 455,
+       "h": 73
+      }
+     }
+    }
+   ],
+   "backgrounds": []
   }
  ],
  "backgrounds": []
