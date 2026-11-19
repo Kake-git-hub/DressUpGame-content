@@ -1750,6 +1750,34 @@
       }
      },
      "thumb": "files/9bdee55491c48c74.webp"
+    },
+    {
+     "id": "アニメ/ヘアスタイル/きらきらロングヘア",
+     "name": "きらきらロングヘア",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/46ddedf371d19728.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 510,
+       "y": 126,
+       "w": 197,
+       "h": 276
+      }
+     },
+     "thumb": "files/eff8321fdd9f7cb0.webp",
+     "back": {
+      "file": "files/e043a2760abd4c20.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 384,
+       "y": 125,
+       "w": 462,
+       "h": 672
+      }
+     }
     }
    ],
    "backgrounds": [
