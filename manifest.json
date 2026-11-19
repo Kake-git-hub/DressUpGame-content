@@ -2789,34 +2789,34 @@
      "name": "プリンセスドレス",
      "category": "ドレス",
      "image": {
-      "file": "files/951cfd6eeddca0a8.webp",
+      "file": "files/a2a0615d7300b26d.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 185,
-       "y": 290,
-       "w": 859,
-       "h": 796
+       "x": 157,
+       "y": 288,
+       "w": 915,
+       "h": 749
       }
      },
-     "thumb": "files/7786c7415d7f54f0.webp"
+     "thumb": "files/3b6ea4b177e70a12.webp"
     },
     {
      "id": "アニメ　その２/ドレス/あおいワンピース",
      "name": "あおいワンピース",
      "category": "ドレス",
      "image": {
-      "file": "files/03b6a98bb2026c78.webp",
+      "file": "files/a88ce4d09e06106f.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 382,
-       "y": 122,
-       "w": 464,
-       "h": 984
+       "x": 426,
+       "y": 273,
+       "w": 398,
+       "h": 562
       }
      },
-     "thumb": "files/a2616504fb7bf968.webp"
+     "thumb": "files/16d3fc9040890b78.webp"
     },
     {
      "id": "アニメ　その２/ソックス/しろいハイソックス",
