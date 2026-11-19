@@ -1654,6 +1654,23 @@
       }
      },
      "thumb": "files/0f77a7fbdbe2b041.webp"
+    },
+    {
+     "id": "アニメ/ヘアスタイル/きんぱつロング",
+     "name": "きんぱつロング",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/3e87760e931983e9.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 239,
+       "y": 27,
+       "w": 551,
+       "h": 874
+      }
+     },
+     "thumb": "files/84bbbc3fae6db1c1.webp"
     }
    ],
    "backgrounds": [
