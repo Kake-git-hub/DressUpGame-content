@@ -1750,17 +1750,17 @@
      "name": "きらきらにっこり",
      "category": "かお",
      "image": {
-      "file": "files/2792c986a67ec36a.webp",
+      "file": "files/037bbd5f0bc1e548.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 570,
-       "y": 143,
-       "w": 91,
-       "h": 114
+       "x": 562,
+       "y": 129,
+       "w": 107,
+       "h": 134
       }
      },
-     "thumb": "files/abeacf331d81645c.webp"
+     "thumb": "files/b396e4a56fb438d7.webp"
     },
     {
      "id": "アニメ/かお/きらきらおめめ",
@@ -1849,6 +1849,62 @@
        "y": 44,
        "w": 526,
        "h": 615
+      }
+     }
+    },
+    {
+     "id": "アニメ/くつ/きらきらがらすのくつ",
+     "name": "きらきらがらすのくつ",
+     "category": "くつ",
+     "image": {
+      "file": "files/075b7b98609b557a.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 539,
+       "y": 1031,
+       "w": 159,
+       "h": 113
+      }
+     },
+     "thumb": "files/0fd5f04c1a20eb32.webp",
+     "hide": {
+      "file": "files/492049c3c9349877.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 446,
+       "y": 789,
+       "w": 134,
+       "h": 204
+      }
+     }
+    },
+    {
+     "id": "アニメ/くつ/きらきらがらすのくつ-2",
+     "name": "きらきらがらすのくつ",
+     "category": "くつ",
+     "image": {
+      "file": "files/c12160c6c1b9e31b.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 515,
+       "y": 1028,
+       "w": 192,
+       "h": 125
+      }
+     },
+     "thumb": "files/68f074dd4d39e849.webp",
+     "hide": {
+      "file": "files/6dbc279dbc4993a9.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 505,
+       "y": 900,
+       "w": 73,
+       "h": 88
       }
      }
     }
