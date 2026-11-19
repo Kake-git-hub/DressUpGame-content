@@ -101,8 +101,8 @@
      "label": "ヘアスタイル",
      "layer": 11,
      "menuOrder": 11,
-     "overlap": true,
-     "movable": true
+     "overlap": false,
+     "movable": false
     }
    ],
    "items": [
@@ -1639,68 +1639,6 @@
      "thumb": "files/a06a5e4ebf6b2262.webp"
     },
     {
-     "id": "アニメ/ヘアスタイル/ふわふわプリンセスヘア",
-     "name": "ふわふわプリンセスヘア",
-     "category": "ヘアスタイル",
-     "image": {
-      "file": "files/ece913adbdcaedf9.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 273,
-       "y": 17,
-       "w": 479,
-       "h": 968
-      }
-     },
-     "thumb": "files/0f77a7fbdbe2b041.webp"
-    },
-    {
-     "id": "アニメ/ヘアスタイル/きんぱつロング",
-     "name": "きんぱつロング",
-     "category": "ヘアスタイル",
-     "image": {
-      "file": "files/3e87760e931983e9.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 239,
-       "y": 27,
-       "w": 551,
-       "h": 874
-      }
-     },
-     "thumb": "files/84bbbc3fae6db1c1.webp"
-    },
-    {
-     "id": "アニメ/ヘアスタイル/きらきらロング",
-     "name": "きらきらロング",
-     "category": "ヘアスタイル",
-     "image": {
-      "file": "files/4ee6c92467b3c606.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 414,
-       "y": 31,
-       "w": 198,
-       "h": 534
-      }
-     },
-     "thumb": "files/3957b1b3bcb9d74b.webp",
-     "back": {
-      "file": "files/54204f7c6d323197.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 227,
-       "y": 26,
-       "w": 570,
-       "h": 917
-      }
-     }
-    },
-    {
      "id": "アニメ/ぼうし/きらきらてんしのわ",
      "name": "きらきらてんしのわ",
      "category": "ぼうし",
@@ -1776,6 +1714,113 @@
        "y": 125,
        "w": 462,
        "h": 672
+      }
+     }
+    },
+    {
+     "id": "アニメ/ヘアスタイル/さらさらくろかみロング",
+     "name": "さらさらくろかみロング",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/8e57a554e1af5b90.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 379,
+       "y": 124,
+       "w": 472,
+       "h": 529
+      }
+     },
+     "thumb": "files/2e6f2c1f5f051bcb.webp",
+     "back": {
+      "file": "files/bbb18c32ac0905a3.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 283,
+       "y": 48,
+       "w": 670,
+       "h": 986
+      }
+     }
+    },
+    {
+     "id": "アニメ/かお/きらきらにっこり",
+     "name": "きらきらにっこり",
+     "category": "かお",
+     "image": {
+      "file": "files/2792c986a67ec36a.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 570,
+       "y": 143,
+       "w": 91,
+       "h": 114
+      }
+     },
+     "thumb": "files/abeacf331d81645c.webp"
+    },
+    {
+     "id": "アニメ/かお/きらきらおめめ",
+     "name": "きらきらおめめ",
+     "category": "かお",
+     "image": {
+      "file": "files/c9acd86211eb2adb.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 570,
+       "y": 174,
+       "w": 90,
+       "h": 74
+      }
+     },
+     "thumb": "files/094e0216365241a3.webp"
+    },
+    {
+     "id": "アニメ/ぼうし/ゆめのうみティアラ",
+     "name": "ゆめのうみティアラ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/21dd1f7abde96785.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 486,
+       "y": 49,
+       "w": 258,
+       "h": 139
+      }
+     },
+     "thumb": "files/0840c80d3d6b615e.webp"
+    },
+    {
+     "id": "アニメ/くつ/ゆめいろマーメイドシューズ",
+     "name": "ゆめいろマーメイドシューズ",
+     "category": "くつ",
+     "image": {
+      "file": "files/e279a0a798b3b45a.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 535,
+       "y": 929,
+       "w": 162,
+       "h": 194
+      }
+     },
+     "thumb": "files/2566b607427db2cc.webp",
+     "hide": {
+      "file": "files/1f3c8cea6d04b7b4.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 524,
+       "y": 868,
+       "w": 1,
+       "h": 1
       }
      }
     }
