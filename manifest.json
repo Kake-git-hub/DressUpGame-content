@@ -1699,6 +1699,57 @@
        "h": 917
       }
      }
+    },
+    {
+     "id": "アニメ/ぼうし/きらきらてんしのわ",
+     "name": "きらきらてんしのわ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/4433aaddf6c452f2.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 365,
+       "y": 0,
+       "w": 288,
+       "h": 124
+      }
+     },
+     "thumb": "files/7b055d67361920bc.webp"
+    },
+    {
+     "id": "アニメ/ぼうし/うみのゆめティアラ",
+     "name": "うみのゆめティアラ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/96c5553a879f2be9.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 407,
+       "y": 32,
+       "w": 418,
+       "h": 606
+      }
+     },
+     "thumb": "files/63909fd4041fe9a0.webp"
+    },
+    {
+     "id": "アニメ/アクセサリー/ふわふわてんしのはね",
+     "name": "ふわふわてんしのはね",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/f5b83cbd171f4769.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 97,
+       "y": 96,
+       "w": 1035,
+       "h": 861
+      }
+     },
+     "thumb": "files/9bdee55491c48c74.webp"
     }
    ],
    "backgrounds": [
