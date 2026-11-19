@@ -1964,6 +1964,23 @@
       }
      },
      "thumb": "files/8eb32a8ec5559feb.webp"
+    },
+    {
+     "id": "リアル/かお/きらきらおめめ",
+     "name": "きらきらおめめ",
+     "category": "かお",
+     "image": {
+      "file": "files/6d5d9ffe8cfcaa78.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 460,
+       "y": 76,
+       "w": 105,
+       "h": 94
+      }
+     },
+     "thumb": "files/154110a168434ac4.webp"
     }
    ],
    "backgrounds": []
