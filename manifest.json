@@ -95,6 +95,14 @@
      "menuOrder": 5,
      "overlap": false,
      "movable": false
+    },
+    {
+     "id": "ヘアスタイル",
+     "label": "ヘアスタイル",
+     "layer": 11,
+     "menuOrder": 11,
+     "overlap": true,
+     "movable": true
     }
    ],
    "items": [
@@ -1629,6 +1637,23 @@
       }
      },
      "thumb": "files/a06a5e4ebf6b2262.webp"
+    },
+    {
+     "id": "アニメ/ヘアスタイル/ふわふわプリンセスヘア",
+     "name": "ふわふわプリンセスヘア",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/ece913adbdcaedf9.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 273,
+       "y": 17,
+       "w": 479,
+       "h": 968
+      }
+     },
+     "thumb": "files/0f77a7fbdbe2b041.webp"
     }
    ],
    "backgrounds": [
