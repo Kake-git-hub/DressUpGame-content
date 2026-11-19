@@ -1823,6 +1823,34 @@
        "h": 1
       }
      }
+    },
+    {
+     "id": "アニメ/ヘアスタイル/きらきらきんぱつロング",
+     "name": "きらきらきんぱつロング",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/3d6f8f71db10e2db.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 557,
+       "y": 124,
+       "w": 117,
+       "h": 125
+      }
+     },
+     "thumb": "files/5f2e20b63b0593f7.webp",
+     "back": {
+      "file": "files/309a181291c2196e.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 353,
+       "y": 44,
+       "w": 526,
+       "h": 615
+      }
+     }
     }
    ],
    "backgrounds": [
