@@ -2976,6 +2976,1811 @@
        "h": 73
       }
      }
+    },
+    {
+     "id": "アニメ　その２/かお/1ひーちゃん顔",
+     "name": "1ひーちゃん顔",
+     "category": "かお",
+     "image": {
+      "file": "files/fffcbb5ffc1dc386.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 415,
+       "y": 17,
+       "w": 191,
+       "h": 284
+      }
+     },
+     "thumb": "files/02c11e635908f9d6.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/2みーちゃん顔",
+     "name": "2みーちゃん顔",
+     "category": "かお",
+     "image": {
+      "file": "files/b3c9af38f4c47c97.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 404,
+       "y": 21,
+       "w": 218,
+       "h": 303
+      }
+     },
+     "thumb": "files/ed26fb10b2796e32.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/3れいちゃん顔",
+     "name": "3れいちゃん顔",
+     "category": "かお",
+     "image": {
+      "file": "files/8807ab2eaf9a1ea1.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 394,
+       "y": 22,
+       "w": 240,
+       "h": 291
+      }
+     },
+     "thumb": "files/fdfb164e9712a4a4.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/ぴんくのロングヘア",
+     "name": "ぴんくのロングヘア",
+     "category": "かお",
+     "image": {
+      "file": "files/3ba7327b0505a23f.webp",
+      "canvasW": 489,
+      "canvasH": 1024,
+      "box": {
+       "x": 92,
+       "y": 31,
+       "w": 310,
+       "h": 234
+      }
+     },
+     "thumb": "files/816ff402bfad143b.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/みどりのロングヘア",
+     "name": "みどりのロングヘア",
+     "category": "かお",
+     "image": {
+      "file": "files/a95d71338fae7fdc.webp",
+      "canvasW": 489,
+      "canvasH": 1024,
+      "box": {
+       "x": 84,
+       "y": 29,
+       "w": 326,
+       "h": 274
+      }
+     },
+     "thumb": "files/79324040b2c37b65.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/アナ顔",
+     "name": "アナ顔",
+     "category": "かお",
+     "image": {
+      "file": "files/52e74e5a12eecd01.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 433,
+       "y": 20,
+       "w": 155,
+       "h": 279
+      }
+     },
+     "thumb": "files/99566b14457a5ed4.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/アリエル顔",
+     "name": "アリエル顔",
+     "category": "かお",
+     "image": {
+      "file": "files/766ab28d9d1793be.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 379,
+       "y": 16,
+       "w": 272,
+       "h": 339
+      }
+     },
+     "thumb": "files/7945b8b404b9af36.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/エルサ顔",
+     "name": "エルサ顔",
+     "category": "かお",
+     "image": {
+      "file": "files/24ab0bbdc037a3cb.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 448,
+       "y": 17,
+       "w": 137,
+       "h": 531
+      }
+     },
+     "thumb": "files/88dade8a51f6f1f9.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/ショートヘア",
+     "name": "ショートヘア",
+     "category": "かお",
+     "image": {
+      "file": "files/b12bf445687d7ab2.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 171,
+       "y": 31,
+       "w": 157,
+       "h": 159
+      }
+     },
+     "thumb": "files/15db6cbe8eb67f6d.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/シンデレラ顔",
+     "name": "シンデレラ顔",
+     "category": "かお",
+     "image": {
+      "file": "files/fec88b581ad4493e.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 455,
+       "y": 4,
+       "w": 117,
+       "h": 179
+      }
+     },
+     "thumb": "files/364320842e159104.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/ベル顔",
+     "name": "ベル顔",
+     "category": "かお",
+     "image": {
+      "file": "files/4cb2ae18dc221cc3.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 429,
+       "y": 15,
+       "w": 168,
+       "h": 259
+      }
+     },
+     "thumb": "files/7350ef44c465c7c1.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/ラプンツェル顔",
+     "name": "ラプンツェル顔",
+     "category": "かお",
+     "image": {
+      "file": "files/e139f1c6ab70244c.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 101,
+       "y": 17,
+       "w": 821,
+       "h": 988
+      }
+     },
+     "thumb": "files/8da393b4acc702aa.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/茶色の顔",
+     "name": "茶色の顔",
+     "category": "かお",
+     "image": {
+      "file": "files/fae9054bedba16e7.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 145,
+       "y": 2,
+       "w": 209,
+       "h": 246
+      }
+     },
+     "thumb": "files/94e320680803de2c.webp"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/チェックのりぼん",
+     "name": "チェックのりぼん",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/e74b432790a552bc.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 209,
+       "y": 192,
+       "w": 80,
+       "h": 66
+      }
+     },
+     "thumb": "files/b026d8b4fead4481.webp"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/マフラー",
+     "name": "マフラー",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/8f2a81fb6b37ec60.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/86df8e074e545921.webp"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/園児カバン",
+     "name": "園児カバン",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/979102235a5571cf.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 368,
+       "y": 177,
+       "w": 209,
+       "h": 391
+      }
+     },
+     "thumb": "files/71cb530d701de566.webp"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/猫手袋",
+     "name": "猫手袋",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/a89305625cd71eb4.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/9d6ce18e7ca32ad7.webp"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/眼鏡",
+     "name": "眼鏡",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/33523f084deda94b.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 458,
+       "y": 93,
+       "w": 110,
+       "h": 40
+      }
+     },
+     "thumb": "files/f6e0e7c57f8a87d5.webp"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/聴診器",
+     "name": "聴診器",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/39f41acdaa81bc4f.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 455,
+       "y": 170,
+       "w": 111,
+       "h": 146
+      }
+     },
+     "thumb": "files/71ee303822f0d025.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/CA帽子",
+     "name": "CA帽子",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/2c0dd576b52ed61e.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/d1bf6e946de96495.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/アイドルカチューシャ",
+     "name": "アイドルカチューシャ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/480a200a8bf1d8ed.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 460,
+       "y": 27,
+       "w": 140,
+       "h": 107
+      }
+     },
+     "thumb": "files/1b6ec4feaf32b6f3.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/ゴスロリカチューシャ",
+     "name": "ゴスロリカチューシャ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/e3a00fdcddd46831.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 432,
+       "y": 7,
+       "w": 163,
+       "h": 166
+      }
+     },
+     "thumb": "files/ecf7bb56dcfbb19c.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/ティアラ",
+     "name": "ティアラ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/1b968e0a10c3f914.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 454,
+       "y": 1,
+       "w": 116,
+       "h": 66
+      }
+     },
+     "thumb": "files/d22bf68794156dfd.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/ナース帽子",
+     "name": "ナース帽子",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/1a15fd26b7c1c931.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/e079f7e5369771c2.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/パティシエ帽子",
+     "name": "パティシエ帽子",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/d9f0eb84b5f2441f.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 745,
+       "h": 1024
+      }
+     },
+     "thumb": "files/1401598a280d8b14.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/園児ぼうし",
+     "name": "園児ぼうし",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/1f9a806381d44e02.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 431,
+       "y": 16,
+       "w": 165,
+       "h": 97
+      }
+     },
+     "thumb": "files/abd053c1b44c9015.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/猫耳",
+     "name": "猫耳",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/40e39e539fe18923.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/e72f692416513b60.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/花の冠",
+     "name": "花の冠",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/367d56a27254d9ce.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 423,
+       "y": 17,
+       "w": 178,
+       "h": 104
+      }
+     },
+     "thumb": "files/480d4319e2a84bb2.webp"
+    },
+    {
+     "id": "アニメ　その２/てぶくろ/ウエディンググローブ",
+     "name": "ウエディンググローブ",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/112d283b8b0401f2.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 281,
+       "y": 301,
+       "w": 465,
+       "h": 254
+      }
+     },
+     "thumb": "files/253cbaa5bd6608bc.webp"
+    },
+    {
+     "id": "アニメ　その２/ソックス/黒いソックス",
+     "name": "黒いソックス",
+     "category": "ソックス",
+     "image": {
+      "file": "files/19eea8d8d0eadc19.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 181,
+       "y": 734,
+       "w": 136,
+       "h": 270
+      }
+     },
+     "thumb": "files/5e67e228912fe236.webp"
+    },
+    {
+     "id": "アニメ　その２/インナー/キャミソール",
+     "name": "キャミソール",
+     "category": "インナー",
+     "image": {
+      "file": "files/f94cb7b7773f81c3.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 168,
+       "y": 187,
+       "w": 163,
+       "h": 236
+      }
+     },
+     "thumb": "files/4a3c50e0a9553c51.webp"
+    },
+    {
+     "id": "アニメ　その２/インナー/スクラブ",
+     "name": "スクラブ",
+     "category": "インナー",
+     "image": {
+      "file": "files/472a8c5837809f10.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 387,
+       "y": 181,
+       "w": 252,
+       "h": 821
+      }
+     },
+     "thumb": "files/df58549951f74a8d.webp"
+    },
+    {
+     "id": "アニメ　その２/インナー/ブラウス",
+     "name": "ブラウス",
+     "category": "インナー",
+     "image": {
+      "file": "files/ac0ba043c9c67af1.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 70,
+       "y": 167,
+       "w": 358,
+       "h": 318
+      }
+     },
+     "thumb": "files/d282ac5c49df2bdf.webp"
+    },
+    {
+     "id": "アニメ　その２/インナー/貝水着",
+     "name": "貝水着",
+     "category": "インナー",
+     "image": {
+      "file": "files/0683c323dae72cbc.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 425,
+       "y": 248,
+       "w": 178,
+       "h": 82
+      }
+     },
+     "thumb": "files/570c3bc93b07ae86.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/もこもこブーツ",
+     "name": "もこもこブーツ",
+     "category": "くつ",
+     "image": {
+      "file": "files/cb2741e88c6761d2.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 415,
+       "y": 750,
+       "w": 198,
+       "h": 263
+      }
+     },
+     "thumb": "files/7e782279a94384d5.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/アイドル靴",
+     "name": "アイドル靴",
+     "category": "くつ",
+     "image": {
+      "file": "files/4d905af4faf850f4.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 423,
+       "y": 591,
+       "w": 179,
+       "h": 420
+      }
+     },
+     "thumb": "files/e6d081ccfc260a95.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/ガラスの靴",
+     "name": "ガラスの靴",
+     "category": "くつ",
+     "image": {
+      "file": "files/1819cb014aa70e64.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 451,
+       "y": 895,
+       "w": 209,
+       "h": 129
+      }
+     },
+     "thumb": "files/b5d45647faa104ba.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/ゴスロリ靴",
+     "name": "ゴスロリ靴",
+     "category": "くつ",
+     "image": {
+      "file": "files/469e85fabb377e99.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 425,
+       "y": 736,
+       "w": 176,
+       "h": 279
+      }
+     },
+     "thumb": "files/2f5b76c38fb8f425.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/ピンクのスニーカー",
+     "name": "ピンクのスニーカー",
+     "category": "くつ",
+     "image": {
+      "file": "files/7209e73c09db6c55.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/790c9e11ff59bd3d.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/ライダーブーツ",
+     "name": "ライダーブーツ",
+     "category": "くつ",
+     "image": {
+      "file": "files/db19b19d1ac80b29.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 441,
+       "y": 847,
+       "w": 145,
+       "h": 167
+      }
+     },
+     "thumb": "files/ca77445c1bf891a6.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/ローファー",
+     "name": "ローファー",
+     "category": "くつ",
+     "image": {
+      "file": "files/5da9fa44e6c5ceaa.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 184,
+       "y": 927,
+       "w": 131,
+       "h": 80
+      }
+     },
+     "thumb": "files/ee7c6736eb43a5fe.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/上履き",
+     "name": "上履き",
+     "category": "くつ",
+     "image": {
+      "file": "files/8768a0846ef00fcd.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/4e3a9cf4b6e1fb29.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/猫足",
+     "name": "猫足",
+     "category": "くつ",
+     "image": {
+      "file": "files/ac343541c697540e.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/4adaee6edb163e81.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/CAスカート",
+     "name": "CAスカート",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/58c6aa54e408c3d9.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/cb4bc16a241824e8.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/もこもこズボン",
+     "name": "もこもこズボン",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/e522a821a7eb1a7f.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/2f10225d37f4599d.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/ショートパンツ",
+     "name": "ショートパンツ",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/3008999c2f02742e.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 155,
+       "y": 418,
+       "w": 189,
+       "h": 128
+      }
+     },
+     "thumb": "files/d115a994fb08c815.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/ジーパン",
+     "name": "ジーパン",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/c7e030a9cd9a01f7.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 415,
+       "y": 376,
+       "w": 198,
+       "h": 501
+      }
+     },
+     "thumb": "files/4cc0aadf9aff8577.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/スクラブズボン",
+     "name": "スクラブズボン",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/904f6b033ba853a5.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 314,
+       "y": 393,
+       "w": 293,
+       "h": 536
+      }
+     },
+     "thumb": "files/413994161cf9e931.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/ライダースパンツ",
+     "name": "ライダースパンツ",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/7a214e193e462804.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 417,
+       "y": 401,
+       "w": 193,
+       "h": 505
+      }
+     },
+     "thumb": "files/7575b9c60dfcaee0.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/ロングスカート",
+     "name": "ロングスカート",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/34140b6459ac449f.webp",
+      "canvasW": 489,
+      "canvasH": 1024,
+      "box": {
+       "x": 76,
+       "y": 373,
+       "w": 342,
+       "h": 585
+      }
+     },
+     "thumb": "files/0a0341cb9e30b1f4.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/ロングスカート赤",
+     "name": "ロングスカート赤",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/2fefe693c1101e13.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 322,
+       "y": 354,
+       "w": 384,
+       "h": 521
+      }
+     },
+     "thumb": "files/3dad71bccc534e49.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/制服スカート",
+     "name": "制服スカート",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/728d14053bd9ebd5.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 379,
+       "y": 354,
+       "w": 273,
+       "h": 302
+      }
+     },
+     "thumb": "files/4d67603d50ada9e7.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/赤いチェックのスカート",
+     "name": "赤いチェックのスカート",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/48f99d4e75c16bda.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 137,
+       "y": 366,
+       "w": 225,
+       "h": 194
+      }
+     },
+     "thumb": "files/25e05e8300302602.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/アイドルドレス",
+     "name": "アイドルドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/30586438c83b3b89.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 318,
+       "y": 174,
+       "w": 391,
+       "h": 508
+      }
+     },
+     "thumb": "files/38ee147477601f82.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/アナ",
+     "name": "アナ",
+     "category": "ドレス",
+     "image": {
+      "file": "files/d474a9484411e34c.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 294,
+       "y": 153,
+       "w": 440,
+       "h": 739
+      }
+     },
+     "thumb": "files/d5e84d8533fbb13e.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/アリエル",
+     "name": "アリエル",
+     "category": "ドレス",
+     "image": {
+      "file": "files/7b6a00fbdb9194c5.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 134,
+       "y": 232,
+       "w": 760,
+       "h": 703
+      }
+     },
+     "thumb": "files/a850957637330068.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/エルサ",
+     "name": "エルサ",
+     "category": "ドレス",
+     "image": {
+      "file": "files/c6fe0795c4fb1508.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 178,
+       "y": 198,
+       "w": 672,
+       "h": 737
+      }
+     },
+     "thumb": "files/c822e1a2f93c069f.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/ゴスロリ",
+     "name": "ゴスロリ",
+     "category": "ドレス",
+     "image": {
+      "file": "files/67ab11d5b5edb879.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 270,
+       "y": 176,
+       "w": 487,
+       "h": 608
+      }
+     },
+     "thumb": "files/bc1e51f1b69ad602.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/シンデレラ",
+     "name": "シンデレラ",
+     "category": "ドレス",
+     "image": {
+      "file": "files/62aee69b0a2bb43f.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 151,
+       "y": 172,
+       "w": 724,
+       "h": 764
+      }
+     },
+     "thumb": "files/085fb11e2676c08d.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/チャイナドレス",
+     "name": "チャイナドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/8452a4b3e9da6732.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/0619545867aae9f8.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/ベル",
+     "name": "ベル",
+     "category": "ドレス",
+     "image": {
+      "file": "files/4f4f8b60fcd9935c.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 194,
+       "y": 224,
+       "w": 638,
+       "h": 698
+      }
+     },
+     "thumb": "files/5f4d33ef61793de2.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/ラプンツェル",
+     "name": "ラプンツェル",
+     "category": "ドレス",
+     "image": {
+      "file": "files/ed6909ad6c99fafe.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 231,
+       "y": 182,
+       "w": 563,
+       "h": 726
+      }
+     },
+     "thumb": "files/7c707b26af3dabf8.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/人魚のドレス",
+     "name": "人魚のドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/e7f324a7660e80ef.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 84,
+       "y": 376,
+       "w": 724,
+       "h": 626
+      }
+     },
+     "thumb": "files/23d91404c54f8273.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/CAトップス",
+     "name": "CAトップス",
+     "category": "トップス",
+     "image": {
+      "file": "files/38176f81c597307d.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/3970c7e0815fe2b4.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/もこもこアウター",
+     "name": "もこもこアウター",
+     "category": "トップス",
+     "image": {
+      "file": "files/12880ff8b451495d.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 43,
+       "y": 133,
+       "w": 412,
+       "h": 477
+      }
+     },
+     "thumb": "files/98d4f5d6eb79f76f.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/もこもこパーカー-2",
+     "name": "もこもこパーカー",
+     "category": "トップス",
+     "image": {
+      "file": "files/1b5a2c3de278e024.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 321,
+       "y": 144,
+       "w": 389,
+       "h": 358
+      }
+     },
+     "thumb": "files/bb21776ee6fa7679.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/カーディガン",
+     "name": "カーディガン",
+     "category": "トップス",
+     "image": {
+      "file": "files/f307cf49c2721c30.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 327,
+       "y": 165,
+       "w": 373,
+       "h": 332
+      }
+     },
+     "thumb": "files/005ef14ccd52f81c.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/セーター",
+     "name": "セーター",
+     "category": "トップス",
+     "image": {
+      "file": "files/0615b2c602faa1a6.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 53,
+       "y": 140,
+       "w": 392,
+       "h": 372
+      }
+     },
+     "thumb": "files/3e454eb1990ee004.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/ドクター服",
+     "name": "ドクター服",
+     "category": "トップス",
+     "image": {
+      "file": "files/f54c4e8f5e61ddb2.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 336,
+       "y": 160,
+       "w": 355,
+       "h": 530
+      }
+     },
+     "thumb": "files/189684389692c6cd.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/ナース服",
+     "name": "ナース服",
+     "category": "トップス",
+     "image": {
+      "file": "files/c6c4ca256375b36e.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 318,
+       "y": 166,
+       "w": 391,
+       "h": 592
+      }
+     },
+     "thumb": "files/cecd1c83848948c2.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/パティシエ",
+     "name": "パティシエ",
+     "category": "トップス",
+     "image": {
+      "file": "files/530c645c7a1bb055.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/a040a4ce05b7d9fe.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/ブレザー",
+     "name": "ブレザー",
+     "category": "トップス",
+     "image": {
+      "file": "files/d1c26fa4ea1f2826.webp",
+      "canvasW": 495,
+      "canvasH": 1024,
+      "box": {
+       "x": 74,
+       "y": 171,
+       "w": 350,
+       "h": 305
+      }
+     },
+     "thumb": "files/c19de990dfbfe314.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/ライダースジャケット",
+     "name": "ライダースジャケット",
+     "category": "トップス",
+     "image": {
+      "file": "files/5ab5afa61643eb40.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 323,
+       "y": 153,
+       "w": 395,
+       "h": 347
+      }
+     },
+     "thumb": "files/eb57863dfef5119f.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/園児ブラウス",
+     "name": "園児ブラウス",
+     "category": "トップス",
+     "image": {
+      "file": "files/38fa011c98f271c1.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 381,
+       "y": 170,
+       "w": 266,
+       "h": 288
+      }
+     },
+     "thumb": "files/c520d14255d7f61d.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/園児制服上",
+     "name": "園児制服上",
+     "category": "トップス",
+     "image": {
+      "file": "files/1a61a502a9e3c8e3.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 327,
+       "y": 168,
+       "w": 373,
+       "h": 377
+      }
+     },
+     "thumb": "files/6e6aa43db36a94ad.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/美容師かわいいVer",
+     "name": "美容師かわいいVer",
+     "category": "トップス",
+     "image": {
+      "file": "files/d84c29a420255c2d.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/19770ba5c8fe59c2.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/美容師エプロン",
+     "name": "美容師エプロン",
+     "category": "トップス",
+     "image": {
+      "file": "files/bc5e444c1800a9c7.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 964,
+       "h": 1024
+      }
+     },
+     "thumb": "files/b39f349604a7404e.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/くるくるブロンドと大きな赤リボンのハツラツフェイス",
+     "name": "くるくるブロンドと大きな赤リボンのハツラツフェイス",
+     "category": "かお",
+     "image": {
+      "file": "files/d67ce1842b8aa130.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 350,
+       "y": 25,
+       "w": 326,
+       "h": 215
+      }
+     },
+     "thumb": "files/a663ca16f40435f1.webp"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/ゴールデン・チアポンポン",
+     "name": "ゴールデン・チアポンポン",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/be554e8231ecfd80.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 254,
+       "y": 450,
+       "w": 517,
+       "h": 156
+      }
+     },
+     "thumb": "files/f348286202620d07.webp",
+     "layer": 12
+    },
+    {
+     "id": "アニメ　その２/ボトムス/チアリーディング・プリーツスカート",
+     "name": "チアリーディング・プリーツスカート",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/4a5ca1990b0550a7.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 375,
+       "y": 374,
+       "w": 274,
+       "h": 206
+      }
+     },
+     "thumb": "files/7a03adcf0a7d8084.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/Vネック・チアトップス（CHEERロゴ入り）",
+     "name": "Vネック・チアトップス（CHEERロゴ入り）",
+     "category": "トップス",
+     "image": {
+      "file": "files/920fd9393f60b6f4.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 411,
+       "y": 190,
+       "w": 204,
+       "h": 313
+      }
+     },
+     "thumb": "files/c9021ecd39868fc2.webp",
+     "layer": 5
+    },
+    {
+     "id": "アニメ　その２/ドレス/きらきらほうせきドレス",
+     "name": "きらきらほうせきドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/c17b75fa32a87f21.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 19,
+       "y": 171,
+       "w": 988,
+       "h": 843
+      }
+     },
+     "thumb": "files/7400a3f192e91be2.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/ゆめいろマーメイド",
+     "name": "ゆめいろマーメイド",
+     "category": "ドレス",
+     "image": {
+      "file": "files/10ffe0f5cb930309.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 280,
+       "y": 238,
+       "w": 468,
+       "h": 718
+      }
+     },
+     "thumb": "files/c6ed3f0baad0796c.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/きらきらマーメイドぐつ",
+     "name": "きらきらマーメイドぐつ",
+     "category": "くつ",
+     "image": {
+      "file": "files/0ff2b39b59b2383d.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 434,
+       "y": 898,
+       "w": 158,
+       "h": 119
+      }
+     },
+     "thumb": "files/fdd732c1cda265b8.webp"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/デニムショートパンツ",
+     "name": "デニムショートパンツ",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/501fc74f5fd4cd5c.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 405,
+       "y": 379,
+       "w": 217,
+       "h": 175
+      }
+     },
+     "thumb": "files/29be0624a5cb4209.webp"
+    },
+    {
+     "id": "アニメ　その２/てぶくろ/マーメイドグローブ",
+     "name": "マーメイドグローブ",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/6a7a058a23a79fe9.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 279,
+       "y": 265,
+       "w": 469,
+       "h": 284
+      }
+     },
+     "thumb": "files/d292bac6380afa57.webp"
+    },
+    {
+     "id": "アニメ　その２/てぶくろ/もふもふねこてぶくろ",
+     "name": "もふもふねこてぶくろ",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/68b9959cf27c7830.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 247,
+       "y": 436,
+       "w": 532,
+       "h": 146
+      }
+     },
+     "thumb": "files/901d44aeb8cfcf76.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/ゆめいろマリンみずぎ",
+     "name": "ゆめいろマリンみずぎ",
+     "category": "ドレス",
+     "image": {
+      "file": "files/e7ae8bb38dd7d016.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 349,
+       "y": 187,
+       "w": 328,
+       "h": 367
+      }
+     },
+     "thumb": "files/393c48ec1c5d0bce.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/うみのきらきらバレエ",
+     "name": "うみのきらきらバレエ",
+     "category": "くつ",
+     "image": {
+      "file": "files/1b92bdb373f404d8.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 428,
+       "y": 514,
+       "w": 170,
+       "h": 496
+      }
+     },
+     "thumb": "files/34e4f1d785c498ac.webp"
+    },
+    {
+     "id": "アニメ　その２/ソックス/きらきらさんごソックス",
+     "name": "きらきらさんごソックス",
+     "category": "ソックス",
+     "image": {
+      "file": "files/5a861e3f18c037a9.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 414,
+       "y": 533,
+       "w": 199,
+       "h": 471
+      }
+     },
+     "thumb": "files/a06a5e4ebf6b2262.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/きらきらてんしのわ",
+     "name": "きらきらてんしのわ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/4433aaddf6c452f2.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 365,
+       "y": 0,
+       "w": 288,
+       "h": 124
+      }
+     },
+     "thumb": "files/7b055d67361920bc.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/うみのゆめティアラ",
+     "name": "うみのゆめティアラ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/96c5553a879f2be9.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 407,
+       "y": 32,
+       "w": 418,
+       "h": 606
+      }
+     },
+     "thumb": "files/63909fd4041fe9a0.webp"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/ふわふわてんしのはね",
+     "name": "ふわふわてんしのはね",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/f5b83cbd171f4769.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 97,
+       "y": 96,
+       "w": 1035,
+       "h": 861
+      }
+     },
+     "thumb": "files/9bdee55491c48c74.webp"
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/きらきらロングヘア",
+     "name": "きらきらロングヘア",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/46ddedf371d19728.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 510,
+       "y": 126,
+       "w": 197,
+       "h": 276
+      }
+     },
+     "thumb": "files/eff8321fdd9f7cb0.webp",
+     "back": {
+      "file": "files/e043a2760abd4c20.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 384,
+       "y": 125,
+       "w": 462,
+       "h": 672
+      }
+     },
+     "backThumb": "files/e2a4f69498727ad5.webp"
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/さらさらくろかみロング",
+     "name": "さらさらくろかみロング",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/8e57a554e1af5b90.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 379,
+       "y": 124,
+       "w": 472,
+       "h": 529
+      }
+     },
+     "thumb": "files/2e6f2c1f5f051bcb.webp",
+     "back": {
+      "file": "files/bbb18c32ac0905a3.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 283,
+       "y": 48,
+       "w": 670,
+       "h": 986
+      }
+     },
+     "backThumb": "files/dc33818ec2559f9b.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/きらきらにっこり",
+     "name": "きらきらにっこり",
+     "category": "かお",
+     "image": {
+      "file": "files/037bbd5f0bc1e548.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 562,
+       "y": 129,
+       "w": 107,
+       "h": 134
+      }
+     },
+     "thumb": "files/b396e4a56fb438d7.webp"
+    },
+    {
+     "id": "アニメ　その２/かお/きらきらおめめ-2",
+     "name": "きらきらおめめ",
+     "category": "かお",
+     "image": {
+      "file": "files/c9acd86211eb2adb.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 570,
+       "y": 174,
+       "w": 90,
+       "h": 74
+      }
+     },
+     "thumb": "files/094e0216365241a3.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/ゆめのうみティアラ",
+     "name": "ゆめのうみティアラ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/21dd1f7abde96785.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 486,
+       "y": 49,
+       "w": 258,
+       "h": 139
+      }
+     },
+     "thumb": "files/0840c80d3d6b615e.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/ゆめいろマーメイドシューズ",
+     "name": "ゆめいろマーメイドシューズ",
+     "category": "くつ",
+     "image": {
+      "file": "files/e279a0a798b3b45a.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 535,
+       "y": 929,
+       "w": 162,
+       "h": 194
+      }
+     },
+     "thumb": "files/2566b607427db2cc.webp",
+     "hide": {
+      "file": "files/1f3c8cea6d04b7b4.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 524,
+       "y": 868,
+       "w": 1,
+       "h": 1
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/きらきらきんぱつロング",
+     "name": "きらきらきんぱつロング",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/3d6f8f71db10e2db.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 557,
+       "y": 124,
+       "w": 117,
+       "h": 125
+      }
+     },
+     "thumb": "files/5f2e20b63b0593f7.webp",
+     "back": {
+      "file": "files/309a181291c2196e.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 353,
+       "y": 44,
+       "w": 526,
+       "h": 615
+      }
+     },
+     "backThumb": "files/011f1a6da288d1bf.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/きらきらがらすのくつ",
+     "name": "きらきらがらすのくつ",
+     "category": "くつ",
+     "image": {
+      "file": "files/075b7b98609b557a.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 539,
+       "y": 1031,
+       "w": 159,
+       "h": 113
+      }
+     },
+     "thumb": "files/0fd5f04c1a20eb32.webp",
+     "hide": {
+      "file": "files/492049c3c9349877.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 446,
+       "y": 789,
+       "w": 134,
+       "h": 204
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/くつ/きらきらがらすのくつ-2",
+     "name": "きらきらがらすのくつ",
+     "category": "くつ",
+     "image": {
+      "file": "files/c12160c6c1b9e31b.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 515,
+       "y": 1028,
+       "w": 192,
+       "h": 125
+      }
+     },
+     "thumb": "files/68f074dd4d39e849.webp",
+     "hide": {
+      "file": "files/6dbc279dbc4993a9.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 505,
+       "y": 900,
+       "w": 73,
+       "h": 88
+      }
+     }
     }
    ],
    "backgrounds": []
