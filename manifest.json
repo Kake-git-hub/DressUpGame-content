@@ -2531,7 +2531,9 @@
        "h": 154
       }
      },
-     "thumb": "files/bf82cba9b4ecc19e.webp"
+     "thumb": "files/bf82cba9b4ecc19e.webp",
+     "layer": 10,
+     "set": "アニメ　その２/セット/エンジェルセット"
     },
     {
      "id": "アニメ　その２/トップス/セーラーふく",
@@ -2996,7 +2998,9 @@
        "h": 861
       }
      },
-     "thumb": "files/9bdee55491c48c74.webp"
+     "thumb": "files/9bdee55491c48c74.webp",
+     "layer": -1,
+     "set": "アニメ　その２/セット/エンジェルセット"
     },
     {
      "id": "アニメ　その２/アクセサリー/こあくまのはね",
@@ -3013,7 +3017,9 @@
        "h": 202
       }
      },
-     "thumb": "files/9294df533b3641cd.webp"
+     "thumb": "files/9294df533b3641cd.webp",
+     "layer": -1,
+     "set": "アニメ　その２/セット/こあくまデビル"
     },
     {
      "id": "アニメ　その２/アクセサリー/しろくまのぬいぐるみ",
@@ -3872,40 +3878,6 @@
      "thumb": "files/29be0624a5cb4209.webp"
     },
     {
-     "id": "アニメ　その２/てぶくろ/ウエディンググローブ",
-     "name": "ウエディンググローブ",
-     "category": "てぶくろ",
-     "image": {
-      "file": "files/112d283b8b0401f2.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 281,
-       "y": 301,
-       "w": 465,
-       "h": 254
-      }
-     },
-     "thumb": "files/253cbaa5bd6608bc.webp"
-    },
-    {
-     "id": "アニメ　その２/てぶくろ/マーメイドグローブ",
-     "name": "マーメイドグローブ",
-     "category": "てぶくろ",
-     "image": {
-      "file": "files/6a7a058a23a79fe9.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 279,
-       "y": 265,
-       "w": 469,
-       "h": 284
-      }
-     },
-     "thumb": "files/d292bac6380afa57.webp"
-    },
-    {
      "id": "アニメ　その２/ドレス/プリンセスドレス",
      "name": "プリンセスドレス",
      "category": "ドレス",
@@ -4018,7 +3990,8 @@
        "h": 261
       }
      },
-     "backThumb": "files/6eb5c1b63c6f6e0e.webp"
+     "backThumb": "files/6eb5c1b63c6f6e0e.webp",
+     "set": "アニメ　その２/セット/エンジェルセット"
     },
     {
      "id": "アニメ　その２/てぶくろ/もふもふねこてぶくろ",
@@ -4304,7 +4277,8 @@
        "h": 702
       }
      },
-     "thumb": "files/2266307d12a00720.webp"
+     "thumb": "files/2266307d12a00720.webp",
+     "set": "アニメ　その２/セット/エンジェルセット"
     },
     {
      "id": "アニメ　その２/ドレス/青と金の絢爛たる舞踏会ガウン",
@@ -4591,7 +4565,9 @@
        "h": 578
       }
      },
-     "thumb": "files/7ff989e1205ff8ba.webp"
+     "thumb": "files/7ff989e1205ff8ba.webp",
+     "layer": 9,
+     "set": "アニメ　その２/セット/エンジェルセット"
     },
     {
      "id": "アニメ　その２/アクセサリー/ゆめのネックレス",
@@ -4792,6 +4768,174 @@
       }
      },
      "set": "アニメ　その２/セット/シンデレラセット"
+    },
+    {
+     "id": "アニメ　その２/てぶくろ/こあくまてぶくろ",
+     "name": "こあくまてぶくろ",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/c4a2bf9482d5973c.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 388,
+       "y": 416,
+       "w": 454,
+       "h": 247
+      }
+     },
+     "thumb": "files/2b728fd0280034b1.webp",
+     "layer": 6,
+     "hide": {
+      "file": "files/6fd41c65cc0fbf23.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 285,
+       "y": 487,
+       "w": 455,
+       "h": 73
+      }
+     },
+     "set": "アニメ　その２/セット/こあくまデビル"
+    },
+    {
+     "id": "アニメ　その２/ソックス/ハートソックス",
+     "name": "ハートソックス",
+     "category": "ソックス",
+     "image": {
+      "file": "files/a8bee09bfbef2589.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 541,
+       "y": 738,
+       "w": 150,
+       "h": 369
+      }
+     },
+     "thumb": "files/ab98302aded608b7.webp",
+     "set": "アニメ　その２/セット/こあくまデビル"
+    },
+    {
+     "id": "アニメ　その２/トップス/デビルブラウス",
+     "name": "デビルブラウス",
+     "category": "トップス",
+     "image": {
+      "file": "files/dc64cfecfb6e9369.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 473,
+       "y": 275,
+       "w": 283,
+       "h": 323
+      }
+     },
+     "thumb": "files/f5c99ba1f2b2b935.webp",
+     "layer": 3,
+     "set": "アニメ　その２/セット/こあくまデビル"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/しっぽスカート",
+     "name": "しっぽスカート",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/a333cd68f777e642.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 296,
+       "y": 464,
+       "w": 640,
+       "h": 481
+      }
+     },
+     "thumb": "files/befd4be7ed1a1b87.webp",
+     "layer": 4,
+     "set": "アニメ　その２/セット/こあくまデビル"
+    },
+    {
+     "id": "アニメ　その２/くつ/デビルブーツ",
+     "name": "デビルブーツ",
+     "category": "くつ",
+     "image": {
+      "file": "files/042c821a14bd43cf.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 546,
+       "y": 984,
+       "w": 138,
+       "h": 125
+      }
+     },
+     "thumb": "files/524bc5a704c04a91.webp",
+     "hide": {
+      "file": "files/c25927bdd7ce02df.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 443,
+       "y": 934,
+       "w": 140,
+       "h": 73
+      }
+     },
+     "set": "アニメ　その２/セット/こあくまデビル"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/つのカチューシャ",
+     "name": "つのカチューシャ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/8d008d2995f8a7a9.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 518,
+       "y": 75,
+       "w": 194,
+       "h": 134
+      }
+     },
+     "thumb": "files/245aede6b6439948.webp",
+     "set": "アニメ　その２/セット/こあくまデビル"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/こうもりのはね",
+     "name": "こうもりのはね",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/3011ed1b65bf6238.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 273,
+       "y": 234,
+       "w": 684,
+       "h": 281
+      }
+     },
+     "thumb": "files/e119ff2af6fe9b52.webp",
+     "layer": -1
+    },
+    {
+     "id": "アニメ　その２/トップス/かいがらビキニ",
+     "name": "かいがらビキニ",
+     "category": "トップス",
+     "image": {
+      "file": "files/0ce72ed33e404a68.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 528,
+       "y": 282,
+       "w": 174,
+       "h": 177
+      }
+     },
+     "thumb": "files/12c5920f0ddbf663.webp"
     }
    ],
    "backgrounds": [
@@ -4932,6 +5076,14 @@
     {
      "id": "アニメ　その２/セット/チアガール",
      "name": "チアガール"
+    },
+    {
+     "id": "アニメ　その２/セット/エンジェルセット",
+     "name": "エンジェルセット"
+    },
+    {
+     "id": "アニメ　その２/セット/こあくまデビル",
+     "name": "こあくまデビル"
     }
    ]
   },
