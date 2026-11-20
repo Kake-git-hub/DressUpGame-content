@@ -4607,9 +4607,193 @@
       }
      },
      "thumb": "files/2266307d12a00720.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/ハートリボンドレス",
+     "name": "ハートリボンドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/6d6c8a5215f8276b.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 403,
+       "y": 289,
+       "w": 425,
+       "h": 440
+      }
+     },
+     "thumb": "files/b9665e57971aadd4.webp",
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
+    },
+    {
+     "id": "アニメ　その２/ソックス/ほしのニーソ",
+     "name": "ほしのニーソ",
+     "category": "ソックス",
+     "image": {
+      "file": "files/6c206c14da15be5b.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 534,
+       "y": 709,
+       "w": 164,
+       "h": 397
+      }
+     },
+     "thumb": "files/54468893eedf368d.webp",
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
+    },
+    {
+     "id": "アニメ　その２/くつ/ハートブーツ",
+     "name": "ハートブーツ",
+     "category": "くつ",
+     "image": {
+      "file": "files/c6164d5982a8ab08.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 547,
+       "y": 987,
+       "w": 136,
+       "h": 122
+      }
+     },
+     "thumb": "files/59752051f33327e2.webp",
+     "hide": {
+      "file": "files/14f17b7d6e7a0f12.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 443,
+       "y": 934,
+       "w": 140,
+       "h": 73
+      }
+     },
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/ちいさなティアラ",
+     "name": "ちいさなティアラ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/9b6ae6fb6f5e72fd.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 533,
+       "y": 78,
+       "w": 164,
+       "h": 114
+      }
+     },
+     "thumb": "files/faddf22dbe86d361.webp",
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/ハートのステッキ",
+     "name": "ハートのステッキ",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/1af524bc1861a408.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 718,
+       "y": 377,
+       "w": 277,
+       "h": 353
+      }
+     },
+     "thumb": "files/d5d4408e10153aaf.webp",
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/ながいツインテール",
+     "name": "ながいツインテール",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/1cb4b7c5f14b7467.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 427,
+       "y": 61,
+       "w": 376,
+       "h": 229
+      }
+     },
+     "thumb": "files/0fa4d67782371e43.webp",
+     "back": {
+      "file": "files/e526ed1db1b90715.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 353,
+       "y": 60,
+       "w": 523,
+       "h": 543
+      }
+     },
+     "backThumb": "files/37c073249e12fdaf.webp",
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
+    },
+    {
+     "id": "アニメ　その２/かお/アイドルえがお",
+     "name": "アイドルえがお",
+     "category": "かお",
+     "image": {
+      "file": "files/34b7c289a449329a.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 544,
+       "y": 123,
+       "w": 141,
+       "h": 152
+      }
+     },
+     "thumb": "files/88d6591c800ab50f.webp",
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
+    },
+    {
+     "id": "アニメ　その２/てぶくろ/アイドルてぶくろ",
+     "name": "アイドルてぶくろ",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/ba5b3697c1d32752.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 388,
+       "y": 444,
+       "w": 454,
+       "h": 219
+      }
+     },
+     "thumb": "files/13eca631505359fa.webp",
+     "hide": {
+      "file": "files/6fd41c65cc0fbf23.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 285,
+       "y": 487,
+       "w": 455,
+       "h": 73
+      }
+     },
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
     }
    ],
-   "backgrounds": []
+   "backgrounds": [],
+   "sets": [
+    {
+     "id": "アニメ　その２/セット/きらきらハートアイドル",
+     "name": "きらきらハートアイドル"
+    }
+   ]
   },
   {
    "id": "おとこのこ",
