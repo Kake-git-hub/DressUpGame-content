@@ -1715,7 +1715,8 @@
        "w": 462,
        "h": 672
       }
-     }
+     },
+     "backThumb": "files/e2a4f69498727ad5.webp"
     },
     {
      "id": "アニメ/ヘアスタイル/さらさらくろかみロング",
@@ -1743,7 +1744,8 @@
        "w": 670,
        "h": 986
       }
-     }
+     },
+     "backThumb": "files/dc33818ec2559f9b.webp"
     },
     {
      "id": "アニメ/かお/きらきらにっこり",
@@ -1850,7 +1852,8 @@
        "w": 526,
        "h": 615
       }
-     }
+     },
+     "backThumb": "files/011f1a6da288d1bf.webp"
     },
     {
      "id": "アニメ/くつ/きらきらがらすのくつ",
@@ -2267,7 +2270,7 @@
    "id": "アニメ　その２",
    "name": "アニメ　その２",
    "image": {
-    "file": "files/2e5ca8f579d6cc54.webp",
+    "file": "files/8c93395df77f1afa.webp",
     "canvasW": 1024,
     "canvasH": 1024,
     "box": {
@@ -2373,26 +2376,37 @@
      "name": "あかいリボンのパンプス",
      "category": "くつ",
      "image": {
-      "file": "files/7c1221b1a8e43899.webp",
+      "file": "files/15f55cdc8a69ae2b.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 548,
-       "y": 1011,
-       "w": 133,
-       "h": 99
+       "x": 549,
+       "y": 1018,
+       "w": 132,
+       "h": 93
       }
      },
-     "thumb": "files/8785492f90281273.webp",
+     "thumb": "files/9d89fae1d15edb46.webp",
      "hide": {
-      "file": "files/a90ba5aba4c4b7c3.webp",
+      "file": "files/7be0c7270e82af41.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 445,
-       "y": 934,
-       "w": 135,
-       "h": 70
+       "x": 443,
+       "y": 939,
+       "w": 139,
+       "h": 67
+      }
+     },
+     "under": {
+      "file": "files/5017c77a497b5e2d.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 562,
+       "y": 1038,
+       "w": 106,
+       "h": 38
       }
      }
     },
@@ -2401,28 +2415,29 @@
      "name": "ピンクのツインテール",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/dbcddd83f3027ed6.webp",
+      "file": "files/02100a372e6988f7.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 548,
-       "y": 118,
-       "w": 133,
-       "h": 76
+       "x": 423,
+       "y": 76,
+       "w": 384,
+       "h": 200
       }
      },
-     "thumb": "files/28ac59d32e56d96e.webp",
+     "thumb": "files/75ae658308e37b0a.webp",
      "back": {
-      "file": "files/826dd8781d218a43.webp",
+      "file": "files/7c49765d8ff2a3da.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 392,
-       "y": 58,
-       "w": 446,
-       "h": 428
+       "x": 399,
+       "y": 75,
+       "w": 432,
+       "h": 470
       }
-     }
+     },
+     "backThumb": "files/32557d25c612ccc5.webp"
     },
     {
      "id": "アニメ　その２/ぼうし/むぎわらぼうし",
@@ -2446,26 +2461,26 @@
      "name": "そらいろスニーカー",
      "category": "くつ",
      "image": {
-      "file": "files/fee1b594bacd0e89.webp",
+      "file": "files/dca2ec60be90dbdc.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
        "x": 547,
-       "y": 851,
-       "w": 135,
-       "h": 257
+       "y": 1015,
+       "w": 136,
+       "h": 94
       }
      },
-     "thumb": "files/c3e04c04a875c25d.webp",
+     "thumb": "files/f2824ed9e338af3d.webp",
      "hide": {
-      "file": "files/a90ba5aba4c4b7c3.webp",
+      "file": "files/fb6f6552f193420e.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 445,
+       "x": 443,
        "y": 934,
-       "w": 135,
-       "h": 70
+       "w": 139,
+       "h": 72
       }
      }
     },
@@ -2474,26 +2489,37 @@
      "name": "ひまわりサンダル",
      "category": "くつ",
      "image": {
-      "file": "files/1f20f2ccc97bd68b.webp",
+      "file": "files/1818957b9b9e6bea.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 545,
-       "y": 979,
-       "w": 139,
-       "h": 139
+       "x": 546,
+       "y": 1010,
+       "w": 138,
+       "h": 104
       }
      },
-     "thumb": "files/a64a1b180341c2bb.webp",
+     "thumb": "files/feb3ed463dee2fde.webp",
      "hide": {
-      "file": "files/a90ba5aba4c4b7c3.webp",
+      "file": "files/cf80c0c5bbe7fb95.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 445,
+       "x": 443,
        "y": 934,
-       "w": 135,
-       "h": 70
+       "w": 139,
+       "h": 60
+      }
+     },
+     "under": {
+      "file": "files/850d0dc1031bc255.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 550,
+       "y": 1036,
+       "w": 129,
+       "h": 68
       }
      }
     },
@@ -2502,26 +2528,26 @@
      "name": "きいろいながぐつ",
      "category": "くつ",
      "image": {
-      "file": "files/236730dd820e3ee4.webp",
+      "file": "files/4f42ef0ba127fe0d.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
        "x": 543,
-       "y": 913,
-       "w": 143,
-       "h": 196
+       "y": 940,
+       "w": 144,
+       "h": 170
       }
      },
-     "thumb": "files/e5fb1afef43a2191.webp",
+     "thumb": "files/1af78b371f583ea5.webp",
      "hide": {
-      "file": "files/a90ba5aba4c4b7c3.webp",
+      "file": "files/63c302934602d880.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 445,
+       "x": 443,
        "y": 934,
-       "w": 135,
-       "h": 70
+       "w": 139,
+       "h": 72
       }
      }
     },
@@ -2530,26 +2556,37 @@
      "name": "リボンのバレエシューズ",
      "category": "くつ",
      "image": {
-      "file": "files/b68cef7fe166780f.webp",
+      "file": "files/04a16c078bc39a43.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 548,
-       "y": 884,
-       "w": 133,
-       "h": 230
+       "x": 549,
+       "y": 986,
+       "w": 132,
+       "h": 122
       }
      },
-     "thumb": "files/6e045b16f2b17fe3.webp",
+     "thumb": "files/da474f74033d23b0.webp",
      "hide": {
-      "file": "files/a90ba5aba4c4b7c3.webp",
+      "file": "files/fca30f289572ec68.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 445,
+       "x": 443,
        "y": 934,
-       "w": 135,
-       "h": 70
+       "w": 139,
+       "h": 72
+      }
+     },
+     "under": {
+      "file": "files/9037e663920202b1.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 553,
+       "y": 1036,
+       "w": 124,
+       "h": 71
       }
      }
     },
@@ -2558,119 +2595,123 @@
      "name": "くろかみボブ",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/5437f18606299388.webp",
+      "file": "files/8c7d3d1c4740c1a3.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 548,
-       "y": 118,
-       "w": 133,
-       "h": 88
+       "x": 512,
+       "y": 87,
+       "w": 206,
+       "h": 240
       }
      },
-     "thumb": "files/16416c1a12719056.webp",
+     "thumb": "files/8e1077ba01959118.webp",
      "back": {
-      "file": "files/42906b2e5e8a2509.webp",
+      "file": "files/bb1fd41424621844.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 499,
-       "y": 77,
-       "w": 232,
-       "h": 235
+       "x": 511,
+       "y": 86,
+       "w": 208,
+       "h": 251
       }
-     }
+     },
+     "backThumb": "files/f0fe388ea503babb.webp"
     },
     {
      "id": "アニメ　その２/ヘアスタイル/ちゃいろのロング",
      "name": "ちゃいろのロング",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/9bec2a6334dc1253.webp",
+      "file": "files/b7b3eea7afa6b5bb.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 548,
-       "y": 123,
-       "w": 132,
-       "h": 63
+       "x": 512,
+       "y": 88,
+       "w": 213,
+       "h": 490
       }
      },
-     "thumb": "files/ee0c8ccb76a37651.webp",
+     "thumb": "files/227469195aad4b4f.webp",
      "back": {
-      "file": "files/83ca17db4059b83b.webp",
+      "file": "files/318d8f74a06ff5b5.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 408,
-       "y": 55,
-       "w": 414,
-       "h": 535
+       "x": 435,
+       "y": 88,
+       "w": 360,
+       "h": 513
       }
-     }
+     },
+     "backThumb": "files/a53d1d7ba2ce9cdf.webp"
     },
     {
      "id": "アニメ　その２/ヘアスタイル/きんいろみつあみ",
      "name": "きんいろみつあみ",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/1601713f9a08f3fb.webp",
+      "file": "files/1ecb77c001108151.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 574,
-       "y": 118,
-       "w": 106,
-       "h": 77
+       "x": 511,
+       "y": 72,
+       "w": 207,
+       "h": 252
       }
      },
-     "thumb": "files/899f70dd8137ad59.webp",
+     "thumb": "files/81add773e582291e.webp",
      "back": {
-      "file": "files/22394187102244b7.webp",
+      "file": "files/657d428899fedd7c.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 485,
-       "y": 55,
-       "w": 259,
-       "h": 510
+       "x": 429,
+       "y": 71,
+       "w": 371,
+       "h": 462
       }
-     }
+     },
+     "backThumb": "files/f3d967f282623e86.webp"
     },
     {
      "id": "アニメ　その２/ヘアスタイル/むらさきポニーテール",
      "name": "むらさきポニーテール",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/c27e6887a34618c5.webp",
+      "file": "files/a2a8f9c937c1e657.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 547,
-       "y": 118,
-       "w": 143,
-       "h": 133
+       "x": 523,
+       "y": 57,
+       "w": 292,
+       "h": 229
       }
      },
-     "thumb": "files/6f9720d62d4288f8.webp",
+     "thumb": "files/f08212ba4db20697.webp",
      "back": {
-      "file": "files/7b6844493b7d516e.webp",
+      "file": "files/ddb12f0eb1eefa71.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 485,
-       "y": 17,
-       "w": 353,
-       "h": 442
+       "x": 523,
+       "y": 57,
+       "w": 304,
+       "h": 478
       }
-     }
+     },
+     "backThumb": "files/6bc753180765c9ca.webp"
     },
     {
      "id": "アニメ　その２/かお/にこにこえがお",
      "name": "にこにこえがお",
      "category": "かお",
      "image": {
-      "file": "files/27abd825fb36f2ac.webp",
+      "file": "files/10c10972b6227c7a.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
@@ -2687,7 +2728,7 @@
      "name": "おすましウインク",
      "category": "かお",
      "image": {
-      "file": "files/4fec850c46a68ab0.webp",
+      "file": "files/2a585ca8917b624c.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
@@ -2704,7 +2745,7 @@
      "name": "きらきらおめめ",
      "category": "かお",
      "image": {
-      "file": "files/87ccd79c93936efa.webp",
+      "file": "files/4bd1e0ee90adcad9.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
