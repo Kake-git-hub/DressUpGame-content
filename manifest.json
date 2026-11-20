@@ -2415,7 +2415,7 @@
      "name": "ピンクのツインテール",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/02100a372e6988f7.webp",
+      "file": "files/1df1843a549703d3.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
@@ -2425,19 +2425,19 @@
        "h": 200
       }
      },
-     "thumb": "files/75ae658308e37b0a.webp",
+     "thumb": "files/5be78e5714b9919d.webp",
      "back": {
-      "file": "files/7c49765d8ff2a3da.webp",
+      "file": "files/cfaacfea09f06e92.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
        "x": 399,
        "y": 75,
        "w": 432,
-       "h": 470
+       "h": 480
       }
      },
-     "backThumb": "files/32557d25c612ccc5.webp"
+     "backThumb": "files/4333f834ba6716d1.webp"
     },
     {
      "id": "アニメ　その２/ぼうし/むぎわらぼうし",
@@ -2595,36 +2595,36 @@
      "name": "くろかみボブ",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/8c7d3d1c4740c1a3.webp",
+      "file": "files/4fea0e0d753cc3a6.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
        "x": 512,
        "y": 87,
        "w": 206,
-       "h": 240
+       "h": 239
       }
      },
-     "thumb": "files/8e1077ba01959118.webp",
+     "thumb": "files/bb43ec9dd9bb0aa2.webp",
      "back": {
-      "file": "files/bb1fd41424621844.webp",
+      "file": "files/8af0070c8a2f2ad7.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
        "x": 511,
        "y": 86,
        "w": 208,
-       "h": 251
+       "h": 261
       }
      },
-     "backThumb": "files/f0fe388ea503babb.webp"
+     "backThumb": "files/6eb5c1b63c6f6e0e.webp"
     },
     {
      "id": "アニメ　その２/ヘアスタイル/ちゃいろのロング",
      "name": "ちゃいろのロング",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/b7b3eea7afa6b5bb.webp",
+      "file": "files/406b777cdacf4404.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
@@ -2634,26 +2634,26 @@
        "h": 490
       }
      },
-     "thumb": "files/227469195aad4b4f.webp",
+     "thumb": "files/43ded809fe9bbac9.webp",
      "back": {
-      "file": "files/318d8f74a06ff5b5.webp",
+      "file": "files/454bbd42cba30fdc.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
        "x": 435,
        "y": 88,
        "w": 360,
-       "h": 513
+       "h": 523
       }
      },
-     "backThumb": "files/a53d1d7ba2ce9cdf.webp"
+     "backThumb": "files/018a544702452c13.webp"
     },
     {
      "id": "アニメ　その２/ヘアスタイル/きんいろみつあみ",
      "name": "きんいろみつあみ",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/1ecb77c001108151.webp",
+      "file": "files/4554eb4780f6d36d.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
@@ -2663,26 +2663,26 @@
        "h": 252
       }
      },
-     "thumb": "files/81add773e582291e.webp",
+     "thumb": "files/c98c25d47f8fd211.webp",
      "back": {
-      "file": "files/657d428899fedd7c.webp",
+      "file": "files/62d20db35fce0cd9.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
        "x": 429,
        "y": 71,
        "w": 371,
-       "h": 462
+       "h": 472
       }
      },
-     "backThumb": "files/f3d967f282623e86.webp"
+     "backThumb": "files/9307921904d7f880.webp"
     },
     {
      "id": "アニメ　その２/ヘアスタイル/むらさきポニーテール",
      "name": "むらさきポニーテール",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/a2a8f9c937c1e657.webp",
+      "file": "files/c1d34ca263b83946.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
@@ -2692,19 +2692,19 @@
        "h": 229
       }
      },
-     "thumb": "files/f08212ba4db20697.webp",
+     "thumb": "files/fc2571806541d1f8.webp",
      "back": {
-      "file": "files/ddb12f0eb1eefa71.webp",
+      "file": "files/7c4bed4d2da67774.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
        "x": 523,
        "y": 57,
        "w": 304,
-       "h": 478
+       "h": 488
       }
      },
-     "backThumb": "files/6bc753180765c9ca.webp"
+     "backThumb": "files/dfeb2167bc0087c7.webp"
     },
     {
      "id": "アニメ　その２/かお/にこにこえがお",
@@ -2978,6 +2978,113 @@
      }
     }
    ],
+   "backgrounds": []
+  },
+  {
+   "id": "おとこのこ",
+   "name": "おとこのこ",
+   "image": {
+    "file": "files/415585b4ae12f223.webp",
+    "canvasW": 1024,
+    "canvasH": 1024,
+    "box": {
+     "x": 285,
+     "y": 21,
+     "w": 454,
+     "h": 983
+    }
+   },
+   "categories": [
+    {
+     "id": "かお",
+     "label": "かお",
+     "layer": 6,
+     "menuOrder": 0,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "アクセサリー",
+     "label": "アクセサリー",
+     "layer": 11,
+     "menuOrder": 10,
+     "overlap": true,
+     "movable": false
+    },
+    {
+     "id": "ぼうし",
+     "label": "ぼうし",
+     "layer": 11,
+     "menuOrder": 9,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "てぶくろ",
+     "label": "てぶくろ",
+     "layer": 1,
+     "menuOrder": 3,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "ソックス",
+     "label": "ソックス",
+     "layer": 1,
+     "menuOrder": 3,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "インナー",
+     "label": "インナー",
+     "layer": 2,
+     "menuOrder": 4,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "くつ",
+     "label": "くつ",
+     "layer": 2,
+     "menuOrder": 7,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "ボトムス",
+     "label": "ボトムス",
+     "layer": 3,
+     "menuOrder": 6,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "ドレス",
+     "label": "ドレス",
+     "layer": 4,
+     "menuOrder": 2,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "トップス",
+     "label": "トップス",
+     "layer": 4,
+     "menuOrder": 5,
+     "overlap": false,
+     "movable": false
+    },
+    {
+     "id": "ヘアスタイル",
+     "label": "ヘアスタイル",
+     "layer": 11,
+     "menuOrder": 11,
+     "overlap": false,
+     "movable": false
+    }
+   ],
+   "items": [],
    "backgrounds": []
   }
  ],
