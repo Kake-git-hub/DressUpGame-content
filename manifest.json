@@ -4936,6 +4936,138 @@
       }
      },
      "thumb": "files/12c5920f0ddbf663.webp"
+    },
+    {
+     "id": "アニメ　その２/トップス/さくらしのびうわぎ",
+     "name": "さくらしのびうわぎ",
+     "category": "トップス",
+     "image": {
+      "file": "files/ec28b50a5772a45f.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 444,
+       "y": 269,
+       "w": 345,
+       "h": 414
+      }
+     },
+     "thumb": "files/644a6a171307b40e.webp",
+     "set": "アニメ　その２/セット/かわいいくノいちセット"
+    },
+    {
+     "id": "アニメ　その２/ボトムス/ひらひらスカート",
+     "name": "ひらひらスカート",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/9890b5a2b48ba7fb.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 445,
+       "y": 464,
+       "w": 340,
+       "h": 258
+      }
+     },
+     "thumb": "files/25c0a1b1e3a500cb.webp",
+     "set": "アニメ　その２/セット/かわいいくノいちセット"
+    },
+    {
+     "id": "アニメ　その２/くつ/しのびブーツ",
+     "name": "しのびブーツ",
+     "category": "くつ",
+     "image": {
+      "file": "files/7d2dcaddb969b67f.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 541,
+       "y": 802,
+       "w": 147,
+       "h": 307
+      }
+     },
+     "thumb": "files/2b2b271b17f5e7b3.webp",
+     "hide": {
+      "file": "files/65e79bc7d3604131.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 442,
+       "y": 934,
+       "w": 141,
+       "h": 73
+      }
+     },
+     "set": "アニメ　その２/セット/かわいいくノいちセット"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/さくらはちまき",
+     "name": "さくらはちまき",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/a9cc9491a61ed9a5.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 546,
+       "y": 119,
+       "w": 357,
+       "h": 183
+      }
+     },
+     "thumb": "files/b87879a98ad408aa.webp",
+     "set": "アニメ　その２/セット/かわいいくノいちセット"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/きらきらしゅりけん",
+     "name": "きらきらしゅりけん",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/e7b61d5c4996cfb6.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 616,
+       "y": 492,
+       "w": 160,
+       "h": 309
+      }
+     },
+     "thumb": "files/beb4338ea311d9d2.webp",
+     "set": "アニメ　その２/セット/かわいいくノいちセット"
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/たかいポニーテール",
+     "name": "たかいポニーテール",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/749b61c10de1e157.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 524,
+       "y": 27,
+       "w": 276,
+       "h": 284
+      }
+     },
+     "thumb": "files/932f1c3da23bdfcc.webp",
+     "layer": 10,
+     "back": {
+      "file": "files/4d9269e73f1a9836.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 433,
+       "y": 26,
+       "w": 367,
+       "h": 466
+      }
+     },
+     "backThumb": "files/4785c73ec3893d09.webp",
+     "set": "アニメ　その２/セット/かわいいくノいちセット"
     }
    ],
    "backgrounds": [
@@ -5084,6 +5216,10 @@
     {
      "id": "アニメ　その２/セット/こあくまデビル",
      "name": "こあくまデビル"
+    },
+    {
+     "id": "アニメ　その２/セット/かわいいくノいちセット",
+     "name": "かわいいくノいちセット"
     }
    ]
   },
