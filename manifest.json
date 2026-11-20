@@ -2451,33 +2451,35 @@
      "set": "アニメ　その２/セット/きらきらハートアイドル"
     },
     {
-     "id": "アニメ　その２/ヘアスタイル/くろかみボブ",
-     "name": "くろかみボブ",
+     "id": "アニメ　その２/ヘアスタイル/ふんわりアップ",
+     "name": "ふんわりアップ",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/4fea0e0d753cc3a6.webp",
+      "file": "files/20273e78e59fce5b.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 512,
-       "y": 87,
-       "w": 206,
-       "h": 239
+       "x": 530,
+       "y": 38,
+       "w": 167,
+       "h": 248
       }
      },
-     "thumb": "files/bb43ec9dd9bb0aa2.webp",
+     "thumb": "files/1fc8ebddf4432e77.webp",
+     "layer": 10,
      "back": {
-      "file": "files/8af0070c8a2f2ad7.webp",
+      "file": "files/bdf832c71b1d0e56.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 511,
-       "y": 86,
-       "w": 208,
-       "h": 261
+       "x": 529,
+       "y": 37,
+       "w": 169,
+       "h": 270
       }
      },
-     "backThumb": "files/6eb5c1b63c6f6e0e.webp"
+     "backThumb": "files/afa8d7659670bd54.webp",
+     "set": "アニメ　その２/セット/シンデレラセット"
     },
     {
      "id": "アニメ　その２/かお/にこにこえがお",
@@ -3990,33 +3992,33 @@
      "thumb": "files/ecf7bb56dcfbb19c.webp"
     },
     {
-     "id": "アニメ　その２/ヘアスタイル/ちゃいろのロング",
-     "name": "ちゃいろのロング",
+     "id": "アニメ　その２/ヘアスタイル/くろかみボブ",
+     "name": "くろかみボブ",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/406b777cdacf4404.webp",
+      "file": "files/4fea0e0d753cc3a6.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
        "x": 512,
-       "y": 88,
-       "w": 213,
-       "h": 490
+       "y": 87,
+       "w": 206,
+       "h": 239
       }
      },
-     "thumb": "files/43ded809fe9bbac9.webp",
+     "thumb": "files/bb43ec9dd9bb0aa2.webp",
      "back": {
-      "file": "files/454bbd42cba30fdc.webp",
+      "file": "files/8af0070c8a2f2ad7.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 435,
-       "y": 88,
-       "w": 360,
-       "h": 523
+       "x": 511,
+       "y": 86,
+       "w": 208,
+       "h": 261
       }
      },
-     "backThumb": "files/018a544702452c13.webp"
+     "backThumb": "files/6eb5c1b63c6f6e0e.webp"
     },
     {
      "id": "アニメ　その２/てぶくろ/もふもふねこてぶくろ",
@@ -4191,33 +4193,33 @@
      "set": "アニメ　その２/セット/チアガール"
     },
     {
-     "id": "アニメ　その２/ヘアスタイル/きんいろみつあみ",
-     "name": "きんいろみつあみ",
+     "id": "アニメ　その２/ヘアスタイル/ちゃいろのロング",
+     "name": "ちゃいろのロング",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/4554eb4780f6d36d.webp",
+      "file": "files/406b777cdacf4404.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 511,
-       "y": 72,
-       "w": 207,
-       "h": 252
+       "x": 512,
+       "y": 88,
+       "w": 213,
+       "h": 490
       }
      },
-     "thumb": "files/c98c25d47f8fd211.webp",
+     "thumb": "files/43ded809fe9bbac9.webp",
      "back": {
-      "file": "files/62d20db35fce0cd9.webp",
+      "file": "files/454bbd42cba30fdc.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 429,
-       "y": 71,
-       "w": 371,
-       "h": 472
+       "x": 435,
+       "y": 88,
+       "w": 360,
+       "h": 523
       }
      },
-     "backThumb": "files/9307921904d7f880.webp"
+     "backThumb": "files/018a544702452c13.webp"
     },
     {
      "id": "アニメ　その２/かお/ラプンツェル顔",
@@ -4470,33 +4472,33 @@
      "set": "アニメ　その２/セット/きらきらハートアイドル"
     },
     {
-     "id": "アニメ　その２/ヘアスタイル/ふたつおだんご",
-     "name": "ふたつおだんご",
+     "id": "アニメ　その２/ヘアスタイル/きんいろみつあみ",
+     "name": "きんいろみつあみ",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/26885616c6c6c223.webp",
+      "file": "files/4554eb4780f6d36d.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 493,
-       "y": 63,
-       "w": 244,
-       "h": 223
+       "x": 511,
+       "y": 72,
+       "w": 207,
+       "h": 252
       }
      },
-     "thumb": "files/11b1bd86d43c5e90.webp",
+     "thumb": "files/c98c25d47f8fd211.webp",
      "back": {
-      "file": "files/71f9bd654fe02d14.webp",
+      "file": "files/62d20db35fce0cd9.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 492,
-       "y": 63,
-       "w": 246,
-       "h": 234
+       "x": 429,
+       "y": 71,
+       "w": 371,
+       "h": 472
       }
      },
-     "backThumb": "files/99fd1472e51ef49d.webp"
+     "backThumb": "files/9307921904d7f880.webp"
     },
     {
      "id": "アニメ　その２/ドレス/うみのゆめドレス",
@@ -4610,6 +4612,35 @@
      "set": "アニメ　その２/セット/ゆめふわマーメイド"
     },
     {
+     "id": "アニメ　その２/ヘアスタイル/ふたつおだんご",
+     "name": "ふたつおだんご",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/26885616c6c6c223.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 493,
+       "y": 63,
+       "w": 244,
+       "h": 223
+      }
+     },
+     "thumb": "files/11b1bd86d43c5e90.webp",
+     "back": {
+      "file": "files/71f9bd654fe02d14.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 492,
+       "y": 63,
+       "w": 246,
+       "h": 234
+      }
+     },
+     "backThumb": "files/99fd1472e51ef49d.webp"
+    },
+    {
      "id": "アニメ　その２/ヘアスタイル/きらふわロングヘア",
      "name": "きらふわロングヘア",
      "category": "ヘアスタイル",
@@ -4636,8 +4667,72 @@
        "h": 494
       }
      },
-     "backThumb": "files/b4a0c95a9aee9fb1.webp",
+     "backThumb": "files/b4a0c95a9aee9fb1.webp"
+    },
+    {
+     "id": "アニメ　その２/てぶくろ/ふわふわうみてぶくろ",
+     "name": "ふわふわうみてぶくろ",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/e4806c045291990b.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 387,
+       "y": 447,
+       "w": 455,
+       "h": 216
+      }
+     },
+     "thumb": "files/19d89f6f28614102.webp",
+     "layer": 5,
+     "hide": {
+      "file": "files/6fd41c65cc0fbf23.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 285,
+       "y": 487,
+       "w": 455,
+       "h": 73
+      }
+     },
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/きらきらティアラ",
+     "name": "きらきらティアラ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/e71e81e31ea02bde.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 540,
+       "y": 72,
+       "w": 157,
+       "h": 91
+      }
+     },
+     "thumb": "files/d590d017cb9635e6.webp",
      "set": "アニメ　その２/セット/シンデレラセット"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/ほしのネックレス",
+     "name": "ほしのネックレス",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/add098c094567985.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 548,
+       "y": 273,
+       "w": 133,
+       "h": 163
+      }
+     },
+     "thumb": "files/85cccfd695ae5aa8.webp"
     },
     {
      "id": "アニメ　その２/ヘアスタイル/ふわふわロング",
@@ -4669,21 +4764,21 @@
      "backThumb": "files/cbb50893369376bb.webp"
     },
     {
-     "id": "アニメ　その２/てぶくろ/ふわふわうみてぶくろ",
-     "name": "ふわふわうみてぶくろ",
+     "id": "アニメ　その２/てぶくろ/ひじまでてぶくろ",
+     "name": "ひじまでてぶくろ",
      "category": "てぶくろ",
      "image": {
-      "file": "files/e4806c045291990b.webp",
+      "file": "files/269c1f2459c68d58.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
        "x": 387,
-       "y": 447,
+       "y": 398,
        "w": 455,
-       "h": 216
+       "h": 265
       }
      },
-     "thumb": "files/19d89f6f28614102.webp",
+     "thumb": "files/9a7bccf34fd4fdae.webp",
      "layer": 5,
      "hide": {
       "file": "files/6fd41c65cc0fbf23.webp",
@@ -4696,7 +4791,7 @@
        "h": 73
       }
      },
-     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+     "set": "アニメ　その２/セット/シンデレラセット"
     }
    ],
    "backgrounds": [
@@ -4823,16 +4918,16 @@
    ],
    "sets": [
     {
-     "id": "アニメ　その２/セット/きらきらハートアイドル",
-     "name": "きらきらハートアイドル"
-    },
-    {
      "id": "アニメ　その２/セット/ゆめふわマーメイド",
      "name": "ゆめふわマーメイド"
     },
     {
      "id": "アニメ　その２/セット/シンデレラセット",
      "name": "シンデレラセット"
+    },
+    {
+     "id": "アニメ　その２/セット/きらきらハートアイドル",
+     "name": "きらきらハートアイドル"
     },
     {
      "id": "アニメ　その２/セット/チアガール",
