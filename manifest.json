@@ -2221,36 +2221,39 @@
        "w": 112,
        "h": 47
       }
-     }
+     },
+     "set": "アニメ　その２/セット/シンデレラセット"
     },
     {
-     "id": "アニメ　その２/ヘアスタイル/きらふわロングヘア",
-     "name": "きらふわロングヘア",
+     "id": "アニメ　その２/ヘアスタイル/なみなみロング",
+     "name": "なみなみロング",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/b8aa52c654853d4d.webp",
+      "file": "files/f6cf7178dcb00650.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 435,
-       "y": 68,
-       "w": 337,
-       "h": 351
+       "x": 449,
+       "y": 70,
+       "w": 330,
+       "h": 356
       }
      },
-     "thumb": "files/0ec43fbb3ccac6b1.webp",
+     "thumb": "files/c44e2147df79ef91.webp",
+     "layer": 10,
      "back": {
-      "file": "files/8f8f1dc8ff344138.webp",
+      "file": "files/1e1aef2a3dbabdc4.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 402,
-       "y": 68,
-       "w": 417,
-       "h": 494
+       "x": 383,
+       "y": 70,
+       "w": 461,
+       "h": 519
       }
      },
-     "backThumb": "files/b4a0c95a9aee9fb1.webp"
+     "backThumb": "files/2d495f797dbb9926.webp",
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
     },
     {
      "id": "アニメ　その２/くつ/あかいリボンのパンプス",
@@ -2317,7 +2320,8 @@
        "w": 139,
        "h": 72
       }
-     }
+     },
+     "set": "アニメ　その２/セット/チアガール"
     },
     {
      "id": "アニメ　その２/くつ/ひまわりサンダル",
@@ -2387,6 +2391,35 @@
      }
     },
     {
+     "id": "アニメ　その２/ヘアスタイル/むらさきポニーテール",
+     "name": "むらさきポニーテール",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/c1d34ca263b83946.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 523,
+       "y": 57,
+       "w": 292,
+       "h": 229
+      }
+     },
+     "thumb": "files/fc2571806541d1f8.webp",
+     "back": {
+      "file": "files/7c4bed4d2da67774.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 523,
+       "y": 57,
+       "w": 304,
+       "h": 488
+      }
+     },
+     "backThumb": "files/dfeb2167bc0087c7.webp"
+    },
+    {
      "id": "アニメ　その２/ヘアスタイル/ながいツインテール",
      "name": "ながいツインテール",
      "category": "ヘアスタイル",
@@ -2445,35 +2478,6 @@
       }
      },
      "backThumb": "files/6eb5c1b63c6f6e0e.webp"
-    },
-    {
-     "id": "アニメ　その２/ヘアスタイル/ちゃいろのロング",
-     "name": "ちゃいろのロング",
-     "category": "ヘアスタイル",
-     "image": {
-      "file": "files/406b777cdacf4404.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 512,
-       "y": 88,
-       "w": 213,
-       "h": 490
-      }
-     },
-     "thumb": "files/43ded809fe9bbac9.webp",
-     "back": {
-      "file": "files/454bbd42cba30fdc.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 435,
-       "y": 88,
-       "w": 360,
-       "h": 523
-      }
-     },
-     "backThumb": "files/018a544702452c13.webp"
     },
     {
      "id": "アニメ　その２/かお/にこにこえがお",
@@ -2645,7 +2649,8 @@
        "h": 474
       }
      },
-     "thumb": "files/266d8ef8000d3813.webp"
+     "thumb": "files/266d8ef8000d3813.webp",
+     "set": "アニメ　その２/セット/チアガール"
     },
     {
      "id": "アニメ　その２/てぶくろ/アイドルてぶくろ",
@@ -2663,7 +2668,7 @@
       }
      },
      "thumb": "files/13eca631505359fa.webp",
-     "layer": 11,
+     "layer": 8,
      "hide": {
       "file": "files/6fd41c65cc0fbf23.webp",
       "canvasW": 1024,
@@ -2834,7 +2839,8 @@
        "h": 215
       }
      },
-     "thumb": "files/a663ca16f40435f1.webp"
+     "thumb": "files/a663ca16f40435f1.webp",
+     "set": "アニメ　その２/セット/チアガール"
     },
     {
      "id": "アニメ　その２/かお/茶色の顔",
@@ -3060,6 +3066,24 @@
      "set": "アニメ　その２/セット/きらきらハートアイドル"
     },
     {
+     "id": "アニメ　その２/ぼうし/ちいさなティアラ",
+     "name": "ちいさなティアラ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/9b6ae6fb6f5e72fd.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 533,
+       "y": 78,
+       "w": 164,
+       "h": 114
+      }
+     },
+     "thumb": "files/faddf22dbe86d361.webp",
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
+    },
+    {
      "id": "アニメ　その２/ぼうし/アイドルカチューシャ",
      "name": "アイドルカチューシャ",
      "category": "ぼうし",
@@ -3077,55 +3101,38 @@
      "thumb": "files/1b6ec4feaf32b6f3.webp"
     },
     {
-     "id": "アニメ　その２/ぼうし/ゴスロリカチューシャ",
-     "name": "ゴスロリカチューシャ",
+     "id": "アニメ　その２/ぼうし/ゆめのうみティアラ",
+     "name": "ゆめのうみティアラ",
      "category": "ぼうし",
      "image": {
-      "file": "files/e3a00fdcddd46831.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
+      "file": "files/50ba8db2dfe586df.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
       "box": {
-       "x": 432,
-       "y": 7,
-       "w": 163,
-       "h": 166
+       "x": 541,
+       "y": 96,
+       "w": 147,
+       "h": 79
       }
      },
-     "thumb": "files/ecf7bb56dcfbb19c.webp"
+     "thumb": "files/0840c80d3d6b615e.webp"
     },
     {
-     "id": "アニメ　その２/ぼうし/園児ぼうし",
-     "name": "園児ぼうし",
+     "id": "アニメ　その２/ぼうし/うみのゆめティアラ",
+     "name": "うみのゆめティアラ",
      "category": "ぼうし",
      "image": {
-      "file": "files/1f9a806381d44e02.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
+      "file": "files/92d4ef6c5a63fa8d.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
       "box": {
-       "x": 431,
-       "y": 16,
-       "w": 165,
-       "h": 97
+       "x": 517,
+       "y": 76,
+       "w": 199,
+       "h": 288
       }
      },
-     "thumb": "files/abd053c1b44c9015.webp"
-    },
-    {
-     "id": "アニメ　その２/ぼうし/花の冠",
-     "name": "花の冠",
-     "category": "ぼうし",
-     "image": {
-      "file": "files/367d56a27254d9ce.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 423,
-       "y": 17,
-       "w": 178,
-       "h": 104
-      }
-     },
-     "thumb": "files/480d4319e2a84bb2.webp"
+     "thumb": "files/63909fd4041fe9a0.webp"
     },
     {
      "id": "アニメ　その２/てぶくろ/あかいミトン",
@@ -3348,23 +3355,6 @@
      "thumb": "files/25e05e8300302602.webp"
     },
     {
-     "id": "アニメ　その２/ドレス/プリンセスドレス",
-     "name": "プリンセスドレス",
-     "category": "ドレス",
-     "image": {
-      "file": "files/a2a0615d7300b26d.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 157,
-       "y": 288,
-       "w": 915,
-       "h": 749
-      }
-     },
-     "thumb": "files/3b6ea4b177e70a12.webp"
-    },
-    {
      "id": "アニメ　その２/ドレス/アナ",
      "name": "アナ",
      "category": "ドレス",
@@ -3380,6 +3370,23 @@
       }
      },
      "thumb": "files/d5e84d8533fbb13e.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/ロイヤルブルーと黒のベルベット刺繍ロングドレス",
+     "name": "ロイヤルブルーと黒のベルベット刺繍ロングドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/c52c38bb5148b20e.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 228,
+       "y": 187,
+       "w": 569,
+       "h": 686
+      }
+     },
+     "thumb": "files/df4bd22c716cd4c1.webp"
     },
     {
      "id": "アニメ　その２/ドレス/アリエル",
@@ -3399,6 +3406,23 @@
      "thumb": "files/a850957637330068.webp"
     },
     {
+     "id": "アニメ　その２/ドレス/白いパフスリーブのサーモンピンクの舞踏会ドレス",
+     "name": "白いパフスリーブのサーモンピンクの舞踏会ドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/91175fef3a4076dc.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 237,
+       "y": 234,
+       "w": 563,
+       "h": 614
+      }
+     },
+     "thumb": "files/aa0f8e4b2a2fa110.webp"
+    },
+    {
      "id": "アニメ　その２/ドレス/エルサ",
      "name": "エルサ",
      "category": "ドレス",
@@ -3416,55 +3440,21 @@
      "thumb": "files/c822e1a2f93c069f.webp"
     },
     {
-     "id": "アニメ　その２/ドレス/ゴスロリ",
-     "name": "ゴスロリ",
+     "id": "アニメ　その２/ドレス/スパークルアイスブルーの雪の結晶ロングドレス（マン",
+     "name": "スパークルアイスブルーの雪の結晶ロングドレス（マン",
      "category": "ドレス",
      "image": {
-      "file": "files/67ab11d5b5edb879.webp",
+      "file": "files/d8a9667107916a0b.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 270,
-       "y": 176,
-       "w": 487,
-       "h": 608
+       "x": 130,
+       "y": 227,
+       "w": 757,
+       "h": 709
       }
      },
-     "thumb": "files/bc1e51f1b69ad602.webp"
-    },
-    {
-     "id": "アニメ　その２/ドレス/シンデレラ",
-     "name": "シンデレラ",
-     "category": "ドレス",
-     "image": {
-      "file": "files/62aee69b0a2bb43f.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 151,
-       "y": 172,
-       "w": 724,
-       "h": 764
-      }
-     },
-     "thumb": "files/085fb11e2676c08d.webp"
-    },
-    {
-     "id": "アニメ　その２/ドレス/チャイナドレス",
-     "name": "チャイナドレス",
-     "category": "ドレス",
-     "image": {
-      "file": "files/8452a4b3e9da6732.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 0,
-       "y": 0,
-       "w": 1024,
-       "h": 1024
-      }
-     },
-     "thumb": "files/0619545867aae9f8.webp"
+     "thumb": "files/a6b2c6df4b1f2833.webp"
     },
     {
      "id": "アニメ　その２/ドレス/ベル",
@@ -3484,38 +3474,56 @@
      "thumb": "files/5f4d33ef61793de2.webp"
     },
     {
-     "id": "アニメ　その２/ドレス/ラプンツェル",
-     "name": "ラプンツェル",
+     "id": "アニメ　その２/ドレス/煌めくゴールドのオフショルダーフリルドレス",
+     "name": "煌めくゴールドのオフショルダーフリルドレス",
      "category": "ドレス",
      "image": {
-      "file": "files/ed6909ad6c99fafe.webp",
+      "file": "files/0a08f39a616ec9d9.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 231,
-       "y": 182,
-       "w": 563,
-       "h": 726
+       "x": 188,
+       "y": 227,
+       "w": 653,
+       "h": 678
       }
      },
-     "thumb": "files/7c707b26af3dabf8.webp"
+     "thumb": "files/fa353dd4a3f53373.webp"
     },
     {
-     "id": "アニメ　その２/ドレス/人魚のドレス",
-     "name": "人魚のドレス",
+     "id": "アニメ　その２/ドレス/シンデレラ",
+     "name": "シンデレラ",
      "category": "ドレス",
      "image": {
-      "file": "files/e7f324a7660e80ef.webp",
+      "file": "files/62aee69b0a2bb43f.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 84,
-       "y": 376,
+       "x": 151,
+       "y": 172,
        "w": 724,
-       "h": 626
+       "h": 764
       }
      },
-     "thumb": "files/23d91404c54f8273.webp"
+     "thumb": "files/085fb11e2676c08d.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/スカイブルーの光沢とレース飾りのプリンセスドレス",
+     "name": "スカイブルーの光沢とレース飾りのプリンセスドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/bf0ba03accf5bc95.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 188,
+       "y": 190,
+       "w": 652,
+       "h": 708
+      }
+     },
+     "thumb": "files/b3d5bf06fbcc2bda.webp",
+     "set": "アニメ　その２/セット/シンデレラセット"
     },
     {
      "id": "アニメ　その２/トップス/もこもこアウター",
@@ -3787,7 +3795,8 @@
        "h": 206
       }
      },
-     "thumb": "files/7a03adcf0a7d8084.webp"
+     "thumb": "files/7a03adcf0a7d8084.webp",
+     "set": "アニメ　その２/セット/チアガール"
     },
     {
      "id": "アニメ　その２/トップス/Vネック・チアトップス（CHEERロゴ入り）",
@@ -3805,41 +3814,42 @@
       }
      },
      "thumb": "files/c9021ecd39868fc2.webp",
-     "layer": 5
+     "layer": 5,
+     "set": "アニメ　その２/セット/チアガール"
     },
     {
-     "id": "アニメ　その２/ドレス/きらきらほうせきドレス",
-     "name": "きらきらほうせきドレス",
+     "id": "アニメ　その２/ドレス/ラプンツェル",
+     "name": "ラプンツェル",
      "category": "ドレス",
      "image": {
-      "file": "files/c17b75fa32a87f21.webp",
+      "file": "files/ed6909ad6c99fafe.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 19,
-       "y": 171,
-       "w": 988,
-       "h": 843
+       "x": 231,
+       "y": 182,
+       "w": 563,
+       "h": 726
       }
      },
-     "thumb": "files/7400a3f192e91be2.webp"
+     "thumb": "files/7c707b26af3dabf8.webp"
     },
     {
-     "id": "アニメ　その２/ドレス/ゆめいろマーメイド",
-     "name": "ゆめいろマーメイド",
+     "id": "アニメ　その２/ドレス/太陽の輝きと編み上げのラベンダーロングドレス",
+     "name": "太陽の輝きと編み上げのラベンダーロングドレス",
      "category": "ドレス",
      "image": {
-      "file": "files/10ffe0f5cb930309.webp",
+      "file": "files/9bc2f9453a85051d.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 280,
-       "y": 238,
-       "w": 468,
-       "h": 718
+       "x": 230,
+       "y": 199,
+       "w": 566,
+       "h": 713
       }
      },
-     "thumb": "files/c6ed3f0baad0796c.webp"
+     "thumb": "files/0ca1e0ff515aedc0.webp"
     },
     {
      "id": "アニメ　その２/ボトムス/デニムショートパンツ",
@@ -3893,38 +3903,39 @@
      "thumb": "files/d292bac6380afa57.webp"
     },
     {
-     "id": "アニメ　その２/ドレス/ゆめいろマリンみずぎ",
-     "name": "ゆめいろマリンみずぎ",
+     "id": "アニメ　その２/ドレス/プリンセスドレス",
+     "name": "プリンセスドレス",
      "category": "ドレス",
      "image": {
-      "file": "files/e7ae8bb38dd7d016.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 349,
-       "y": 187,
-       "w": 328,
-       "h": 367
-      }
-     },
-     "thumb": "files/393c48ec1c5d0bce.webp"
-    },
-    {
-     "id": "アニメ　その２/ぼうし/うみのゆめティアラ",
-     "name": "うみのゆめティアラ",
-     "category": "ぼうし",
-     "image": {
-      "file": "files/96c5553a879f2be9.webp",
+      "file": "files/a2a0615d7300b26d.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 407,
-       "y": 32,
-       "w": 418,
-       "h": 606
+       "x": 157,
+       "y": 288,
+       "w": 915,
+       "h": 749
       }
      },
-     "thumb": "files/63909fd4041fe9a0.webp"
+     "thumb": "files/3b6ea4b177e70a12.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/しんじゅティアラ",
+     "name": "しんじゅティアラ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/91ed82b3f3619424.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 549,
+       "y": 76,
+       "w": 131,
+       "h": 77
+      }
+     },
+     "thumb": "files/c475e83faa16f25c.webp",
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
     },
     {
      "id": "アニメ　その２/アクセサリー/マフラー",
@@ -3961,50 +3972,50 @@
      "thumb": "files/7350ef44c465c7c1.webp"
     },
     {
-     "id": "アニメ　その２/ぼうし/ゆめのうみティアラ",
-     "name": "ゆめのうみティアラ",
+     "id": "アニメ　その２/ぼうし/ゴスロリカチューシャ",
+     "name": "ゴスロリカチューシャ",
      "category": "ぼうし",
      "image": {
-      "file": "files/21dd1f7abde96785.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
+      "file": "files/e3a00fdcddd46831.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
       "box": {
-       "x": 486,
-       "y": 49,
-       "w": 258,
-       "h": 139
+       "x": 432,
+       "y": 7,
+       "w": 163,
+       "h": 166
       }
      },
-     "thumb": "files/0840c80d3d6b615e.webp"
+     "thumb": "files/ecf7bb56dcfbb19c.webp"
     },
     {
-     "id": "アニメ　その２/ヘアスタイル/きんいろみつあみ",
-     "name": "きんいろみつあみ",
+     "id": "アニメ　その２/ヘアスタイル/ちゃいろのロング",
+     "name": "ちゃいろのロング",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/4554eb4780f6d36d.webp",
+      "file": "files/406b777cdacf4404.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 511,
-       "y": 72,
-       "w": 207,
-       "h": 252
+       "x": 512,
+       "y": 88,
+       "w": 213,
+       "h": 490
       }
      },
-     "thumb": "files/c98c25d47f8fd211.webp",
+     "thumb": "files/43ded809fe9bbac9.webp",
      "back": {
-      "file": "files/62d20db35fce0cd9.webp",
+      "file": "files/454bbd42cba30fdc.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 429,
-       "y": 71,
-       "w": 371,
-       "h": 472
+       "x": 435,
+       "y": 88,
+       "w": 360,
+       "h": 523
       }
      },
-     "backThumb": "files/9307921904d7f880.webp"
+     "backThumb": "files/018a544702452c13.webp"
     },
     {
      "id": "アニメ　その２/てぶくろ/もふもふねこてぶくろ",
@@ -4024,21 +4035,21 @@
      "thumb": "files/901d44aeb8cfcf76.webp"
     },
     {
-     "id": "アニメ　その２/ぼうし/ふわふわてんしのわっか",
-     "name": "ふわふわてんしのわっか",
+     "id": "アニメ　その２/ぼうし/園児ぼうし",
+     "name": "園児ぼうし",
      "category": "ぼうし",
      "image": {
-      "file": "files/6a645e0b0d293bcd.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
+      "file": "files/1f9a806381d44e02.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
       "box": {
-       "x": 391,
-       "y": 34,
-       "w": 436,
-       "h": 578
+       "x": 431,
+       "y": 16,
+       "w": 165,
+       "h": 97
       }
      },
-     "thumb": "files/7ff989e1205ff8ba.webp"
+     "thumb": "files/abd053c1b44c9015.webp"
     },
     {
      "id": "アニメ　その２/アクセサリー/眼鏡",
@@ -4075,39 +4086,38 @@
      "thumb": "files/71ee303822f0d025.webp"
     },
     {
-     "id": "アニメ　その２/ドレス/はねのてんしドレス",
-     "name": "はねのてんしドレス",
+     "id": "アニメ　その２/ドレス/きらきらステージドレス",
+     "name": "きらきらステージドレス",
      "category": "ドレス",
      "image": {
-      "file": "files/4a881ad9e8281de2.webp",
+      "file": "files/80891850ea4b6584.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 281,
-       "y": 291,
-       "w": 667,
-       "h": 702
+       "x": 329,
+       "y": 294,
+       "w": 571,
+       "h": 614
       }
      },
-     "thumb": "files/2266307d12a00720.webp"
+     "thumb": "files/8fe8353c514e3b49.webp"
     },
     {
-     "id": "アニメ　その２/ドレス/ハートリボンドレス",
-     "name": "ハートリボンドレス",
+     "id": "アニメ　その２/ドレス/ロイヤルブルーの金刺繍アラビアンコスチューム",
+     "name": "ロイヤルブルーの金刺繍アラビアンコスチューム",
      "category": "ドレス",
      "image": {
-      "file": "files/6d6c8a5215f8276b.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
+      "file": "files/99a6210ce6186589.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
       "box": {
-       "x": 403,
-       "y": 289,
-       "w": 425,
-       "h": 440
+       "x": 392,
+       "y": 193,
+       "w": 245,
+       "h": 700
       }
      },
-     "thumb": "files/b9665e57971aadd4.webp",
-     "set": "アニメ　その２/セット/きらきらハートアイドル"
+     "thumb": "files/ac2acf58a4661767.webp"
     },
     {
      "id": "アニメ　その２/ソックス/しましまタイツ",
@@ -4144,27 +4154,26 @@
      "thumb": "files/d3f871d8f1bcdd4b.webp"
     },
     {
-     "id": "アニメ　その２/ぼうし/ちいさなティアラ",
-     "name": "ちいさなティアラ",
+     "id": "アニメ　その２/ぼうし/花の冠",
+     "name": "花の冠",
      "category": "ぼうし",
      "image": {
-      "file": "files/9b6ae6fb6f5e72fd.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
+      "file": "files/367d56a27254d9ce.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
       "box": {
-       "x": 533,
-       "y": 78,
-       "w": 164,
-       "h": 114
+       "x": 423,
+       "y": 17,
+       "w": 178,
+       "h": 104
       }
      },
-     "thumb": "files/faddf22dbe86d361.webp",
-     "set": "アニメ　その２/セット/きらきらハートアイドル"
+     "thumb": "files/480d4319e2a84bb2.webp"
     },
     {
      "id": "アニメ　その２/アクセサリー/ゴールデン・チアポンポン",
      "name": "ゴールデン・チアポンポン",
-     "category": "アクセサリー",
+     "category": "てぶくろ",
      "image": {
       "file": "files/be554e8231ecfd80.webp",
       "canvasW": 1024,
@@ -4177,36 +4186,37 @@
       }
      },
      "thumb": "files/f348286202620d07.webp",
-     "layer": 12
+     "layer": 12,
+     "set": "アニメ　その２/セット/チアガール"
     },
     {
-     "id": "アニメ　その２/ヘアスタイル/むらさきポニーテール",
-     "name": "むらさきポニーテール",
+     "id": "アニメ　その２/ヘアスタイル/きんいろみつあみ",
+     "name": "きんいろみつあみ",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/c1d34ca263b83946.webp",
+      "file": "files/4554eb4780f6d36d.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 523,
-       "y": 57,
-       "w": 292,
-       "h": 229
+       "x": 511,
+       "y": 72,
+       "w": 207,
+       "h": 252
       }
      },
-     "thumb": "files/fc2571806541d1f8.webp",
+     "thumb": "files/c98c25d47f8fd211.webp",
      "back": {
-      "file": "files/7c4bed4d2da67774.webp",
+      "file": "files/62d20db35fce0cd9.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 523,
-       "y": 57,
-       "w": 304,
-       "h": 488
+       "x": 429,
+       "y": 71,
+       "w": 371,
+       "h": 472
       }
      },
-     "backThumb": "files/dfeb2167bc0087c7.webp"
+     "backThumb": "files/9307921904d7f880.webp"
     },
     {
      "id": "アニメ　その２/かお/ラプンツェル顔",
@@ -4260,123 +4270,38 @@
      "thumb": "files/2f5b76c38fb8f425.webp"
     },
     {
-     "id": "アニメ　その２/ドレス/スカイブルーの光沢とレース飾りのプリンセスドレス",
-     "name": "スカイブルーの光沢とレース飾りのプリンセスドレス",
+     "id": "アニメ　その２/ドレス/ゴスロリ",
+     "name": "ゴスロリ",
      "category": "ドレス",
      "image": {
-      "file": "files/bf0ba03accf5bc95.webp",
+      "file": "files/67ab11d5b5edb879.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 188,
-       "y": 190,
-       "w": 652,
-       "h": 708
+       "x": 270,
+       "y": 176,
+       "w": 487,
+       "h": 608
       }
      },
-     "thumb": "files/b3d5bf06fbcc2bda.webp"
+     "thumb": "files/bc1e51f1b69ad602.webp"
     },
     {
-     "id": "アニメ　その２/ドレス/スパークルアイスブルーの雪の結晶ロングドレス（マン",
-     "name": "スパークルアイスブルーの雪の結晶ロングドレス（マン",
+     "id": "アニメ　その２/ドレス/はねのてんしドレス",
+     "name": "はねのてんしドレス",
      "category": "ドレス",
      "image": {
-      "file": "files/d8a9667107916a0b.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
+      "file": "files/4a881ad9e8281de2.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
       "box": {
-       "x": 130,
-       "y": 227,
-       "w": 757,
-       "h": 709
+       "x": 281,
+       "y": 291,
+       "w": 667,
+       "h": 702
       }
      },
-     "thumb": "files/a6b2c6df4b1f2833.webp"
-    },
-    {
-     "id": "アニメ　その２/ドレス/ロイヤルブルーと黒のベルベット刺繍ロングドレス",
-     "name": "ロイヤルブルーと黒のベルベット刺繍ロングドレス",
-     "category": "ドレス",
-     "image": {
-      "file": "files/c52c38bb5148b20e.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 228,
-       "y": 187,
-       "w": 569,
-       "h": 686
-      }
-     },
-     "thumb": "files/df4bd22c716cd4c1.webp"
-    },
-    {
-     "id": "アニメ　その２/ドレス/ロイヤルブルーの金刺繍アラビアンコスチューム",
-     "name": "ロイヤルブルーの金刺繍アラビアンコスチューム",
-     "category": "ドレス",
-     "image": {
-      "file": "files/99a6210ce6186589.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 392,
-       "y": 193,
-       "w": 245,
-       "h": 700
-      }
-     },
-     "thumb": "files/ac2acf58a4661767.webp"
-    },
-    {
-     "id": "アニメ　その２/ドレス/太陽の輝きと編み上げのラベンダーロングドレス",
-     "name": "太陽の輝きと編み上げのラベンダーロングドレス",
-     "category": "ドレス",
-     "image": {
-      "file": "files/9bc2f9453a85051d.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 230,
-       "y": 199,
-       "w": 566,
-       "h": 713
-      }
-     },
-     "thumb": "files/0ca1e0ff515aedc0.webp"
-    },
-    {
-     "id": "アニメ　その２/ドレス/煌めくゴールドのオフショルダーフリルドレス",
-     "name": "煌めくゴールドのオフショルダーフリルドレス",
-     "category": "ドレス",
-     "image": {
-      "file": "files/0a08f39a616ec9d9.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 188,
-       "y": 227,
-       "w": 653,
-       "h": 678
-      }
-     },
-     "thumb": "files/fa353dd4a3f53373.webp"
-    },
-    {
-     "id": "アニメ　その２/ドレス/白いパフスリーブのサーモンピンクの舞踏会ドレス",
-     "name": "白いパフスリーブのサーモンピンクの舞踏会ドレス",
-     "category": "ドレス",
-     "image": {
-      "file": "files/91175fef3a4076dc.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 237,
-       "y": 234,
-       "w": 563,
-       "h": 614
-      }
-     },
-     "thumb": "files/aa0f8e4b2a2fa110.webp"
+     "thumb": "files/2266307d12a00720.webp"
     },
     {
      "id": "アニメ　その２/ドレス/青と金の絢爛たる舞踏会ガウン",
@@ -4396,21 +4321,107 @@
      "thumb": "files/8eb32a8ec5559feb.webp"
     },
     {
-     "id": "アニメ　その２/ドレス/きらきらステージドレス",
-     "name": "きらきらステージドレス",
+     "id": "アニメ　その２/ドレス/ハートリボンドレス",
+     "name": "ハートリボンドレス",
      "category": "ドレス",
      "image": {
-      "file": "files/80891850ea4b6584.webp",
+      "file": "files/6d6c8a5215f8276b.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 329,
-       "y": 294,
-       "w": 571,
-       "h": 614
+       "x": 403,
+       "y": 289,
+       "w": 425,
+       "h": 440
       }
      },
-     "thumb": "files/8fe8353c514e3b49.webp"
+     "thumb": "files/b9665e57971aadd4.webp",
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
+    },
+    {
+     "id": "アニメ　その２/ドレス/チャイナドレス",
+     "name": "チャイナドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/8452a4b3e9da6732.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
+      }
+     },
+     "thumb": "files/0619545867aae9f8.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/人魚のドレス",
+     "name": "人魚のドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/e7f324a7660e80ef.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 84,
+       "y": 376,
+       "w": 724,
+       "h": 626
+      }
+     },
+     "thumb": "files/23d91404c54f8273.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/きらきらほうせきドレス",
+     "name": "きらきらほうせきドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/c17b75fa32a87f21.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 19,
+       "y": 171,
+       "w": 988,
+       "h": 843
+      }
+     },
+     "thumb": "files/7400a3f192e91be2.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/ゆめいろマリンみずぎ",
+     "name": "ゆめいろマリンみずぎ",
+     "category": "インナー",
+     "image": {
+      "file": "files/e7ae8bb38dd7d016.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 349,
+       "y": 187,
+       "w": 328,
+       "h": 367
+      }
+     },
+     "thumb": "files/393c48ec1c5d0bce.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/ゆめいろマーメイド",
+     "name": "ゆめいろマーメイド",
+     "category": "ドレス",
+     "image": {
+      "file": "files/10ffe0f5cb930309.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 280,
+       "y": 238,
+       "w": 468,
+       "h": 718
+      }
+     },
+     "thumb": "files/c6ed3f0baad0796c.webp"
     },
     {
      "id": "アニメ　その２/かお/クールなおとなフェイス",
@@ -4459,33 +4470,33 @@
      "set": "アニメ　その２/セット/きらきらハートアイドル"
     },
     {
-     "id": "アニメ　その２/ヘアスタイル/ふわふわロング",
-     "name": "ふわふわロング",
+     "id": "アニメ　その２/ヘアスタイル/ふたつおだんご",
+     "name": "ふたつおだんご",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/6a93182537ced99d.webp",
+      "file": "files/26885616c6c6c223.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 466,
-       "y": 87,
-       "w": 297,
-       "h": 291
+       "x": 493,
+       "y": 63,
+       "w": 244,
+       "h": 223
       }
      },
-     "thumb": "files/d3198e295e5bd5a4.webp",
+     "thumb": "files/11b1bd86d43c5e90.webp",
      "back": {
-      "file": "files/5e146f03c47ea320.webp",
+      "file": "files/71f9bd654fe02d14.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 412,
-       "y": 86,
-       "w": 406,
-       "h": 466
+       "x": 492,
+       "y": 63,
+       "w": 246,
+       "h": 234
       }
      },
-     "backThumb": "files/cbb50893369376bb.webp"
+     "backThumb": "files/99fd1472e51ef49d.webp"
     },
     {
      "id": "アニメ　その２/ドレス/うみのゆめドレス",
@@ -4564,22 +4575,21 @@
      "set": "アニメ　その２/セット/ゆめふわマーメイド"
     },
     {
-     "id": "アニメ　その２/ぼうし/しんじゅティアラ",
-     "name": "しんじゅティアラ",
+     "id": "アニメ　その２/ぼうし/ふわふわてんしのわっか",
+     "name": "ふわふわてんしのわっか",
      "category": "ぼうし",
      "image": {
-      "file": "files/91ed82b3f3619424.webp",
+      "file": "files/6a645e0b0d293bcd.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 549,
-       "y": 76,
-       "w": 131,
-       "h": 77
+       "x": 391,
+       "y": 34,
+       "w": 436,
+       "h": 578
       }
      },
-     "thumb": "files/c475e83faa16f25c.webp",
-     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+     "thumb": "files/7ff989e1205ff8ba.webp"
     },
     {
      "id": "アニメ　その２/アクセサリー/ゆめのネックレス",
@@ -4600,64 +4610,62 @@
      "set": "アニメ　その２/セット/ゆめふわマーメイド"
     },
     {
-     "id": "アニメ　その２/ヘアスタイル/なみなみロング",
-     "name": "なみなみロング",
+     "id": "アニメ　その２/ヘアスタイル/きらふわロングヘア",
+     "name": "きらふわロングヘア",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/f6cf7178dcb00650.webp",
+      "file": "files/b8aa52c654853d4d.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 449,
-       "y": 70,
-       "w": 330,
-       "h": 356
+       "x": 435,
+       "y": 68,
+       "w": 337,
+       "h": 351
       }
      },
-     "thumb": "files/c44e2147df79ef91.webp",
-     "layer": 10,
+     "thumb": "files/0ec43fbb3ccac6b1.webp",
      "back": {
-      "file": "files/1e1aef2a3dbabdc4.webp",
+      "file": "files/8f8f1dc8ff344138.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 383,
-       "y": 70,
-       "w": 461,
-       "h": 519
+       "x": 402,
+       "y": 68,
+       "w": 417,
+       "h": 494
       }
      },
-     "backThumb": "files/2d495f797dbb9926.webp",
-     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+     "backThumb": "files/b4a0c95a9aee9fb1.webp"
     },
     {
-     "id": "アニメ　その２/ヘアスタイル/ふたつおだんご",
-     "name": "ふたつおだんご",
+     "id": "アニメ　その２/ヘアスタイル/ふわふわロング",
+     "name": "ふわふわロング",
      "category": "ヘアスタイル",
      "image": {
-      "file": "files/26885616c6c6c223.webp",
+      "file": "files/6a93182537ced99d.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 493,
-       "y": 63,
-       "w": 244,
-       "h": 223
+       "x": 466,
+       "y": 87,
+       "w": 297,
+       "h": 291
       }
      },
-     "thumb": "files/11b1bd86d43c5e90.webp",
+     "thumb": "files/d3198e295e5bd5a4.webp",
      "back": {
-      "file": "files/71f9bd654fe02d14.webp",
+      "file": "files/5e146f03c47ea320.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 492,
-       "y": 63,
-       "w": 246,
-       "h": 234
+       "x": 412,
+       "y": 86,
+       "w": 406,
+       "h": 466
       }
      },
-     "backThumb": "files/99fd1472e51ef49d.webp"
+     "backThumb": "files/cbb50893369376bb.webp"
     },
     {
      "id": "アニメ　その２/てぶくろ/ふわふわうみてぶくろ",
@@ -4820,6 +4828,14 @@
     {
      "id": "アニメ　その２/セット/ゆめふわマーメイド",
      "name": "ゆめふわマーメイド"
+    },
+    {
+     "id": "アニメ　その２/セット/シンデレラセット",
+     "name": "シンデレラセット"
+    },
+    {
+     "id": "アニメ　その２/セット/チアガール",
+     "name": "チアガール"
     }
    ]
   },
