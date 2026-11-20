@@ -1851,6 +1851,14 @@
      "menuOrder": 2,
      "overlap": false,
      "movable": false
+    },
+    {
+     "id": "トップス",
+     "label": "トップス",
+     "layer": 4,
+     "menuOrder": 3,
+     "overlap": false,
+     "movable": false
     }
    ],
    "items": [
@@ -2023,6 +2031,23 @@
       }
      },
      "thumb": "files/8eb32a8ec5559feb.webp"
+    },
+    {
+     "id": "リアル/ドレス/きらきらステージドレス",
+     "name": "きらきらステージドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/80891850ea4b6584.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 329,
+       "y": 294,
+       "w": 571,
+       "h": 614
+      }
+     },
+     "thumb": "files/8fe8353c514e3b49.webp"
     }
    ],
    "backgrounds": []
@@ -4438,6 +4463,142 @@
        "h": 88
       }
      }
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/きらふわロングヘア",
+     "name": "きらふわロングヘア",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/b8aa52c654853d4d.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 435,
+       "y": 68,
+       "w": 337,
+       "h": 351
+      }
+     },
+     "thumb": "files/0ec43fbb3ccac6b1.webp",
+     "back": {
+      "file": "files/8f8f1dc8ff344138.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 402,
+       "y": 68,
+       "w": 417,
+       "h": 494
+      }
+     },
+     "backThumb": "files/b4a0c95a9aee9fb1.webp"
+    },
+    {
+     "id": "アニメ　その２/くつ/まーめいどヒール",
+     "name": "まーめいどヒール",
+     "category": "くつ",
+     "image": {
+      "file": "files/8d07b3d4e9972cae.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 539,
+       "y": 1009,
+       "w": 151,
+       "h": 105
+      }
+     },
+     "thumb": "files/bcd017a0e7ee6fdc.webp",
+     "hide": {
+      "file": "files/53b4e05ecc2851e8.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 443,
+       "y": 934,
+       "w": 140,
+       "h": 73
+      }
+     },
+     "under": {
+      "file": "files/48facd4efdf027c5.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 556,
+       "y": 1036,
+       "w": 121,
+       "h": 54
+      }
+     }
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/こあくまのはね",
+     "name": "こあくまのはね",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/b7949700cd46b4dc.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 252,
+       "y": 248,
+       "w": 725,
+       "h": 202
+      }
+     },
+     "thumb": "files/9294df533b3641cd.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/ふわふわてんしのわっか",
+     "name": "ふわふわてんしのわっか",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/6a645e0b0d293bcd.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 391,
+       "y": 34,
+       "w": 436,
+       "h": 578
+      }
+     },
+     "thumb": "files/7ff989e1205ff8ba.webp"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/しろくまのぬいぐるみ",
+     "name": "しろくまのぬいぐるみ",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/89fbc49fa4769681.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 337,
+       "y": 408,
+       "w": 211,
+       "h": 268
+      }
+     },
+     "thumb": "files/5f11803ea7d404d9.webp"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/わたあめステッキ",
+     "name": "わたあめステッキ",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/62b3de9e55d5ead5.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 746,
+       "y": 154,
+       "w": 303,
+       "h": 592
+      }
+     },
+     "thumb": "files/52c955f81870803a.webp"
     }
    ],
    "backgrounds": []
