@@ -2748,7 +2748,8 @@
        "h": 154
       }
      },
-     "thumb": "files/a3d04d9e49b19862.webp"
+     "thumb": "files/a3d04d9e49b19862.webp",
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
     },
     {
      "id": "アニメ　その２/かお/きらきらにっこり",
@@ -4485,6 +4486,208 @@
       }
      },
      "backThumb": "files/cbb50893369376bb.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/うみのゆめドレス",
+     "name": "うみのゆめドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/f41e389ba9c0f55d.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 247,
+       "y": 122,
+       "w": 736,
+       "h": 1065
+      }
+     },
+     "thumb": "files/94dce4112e5032d2.webp",
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+    },
+    {
+     "id": "アニメ　その２/ソックス/うろこソックス",
+     "name": "うろこソックス",
+     "category": "ソックス",
+     "image": {
+      "file": "files/3ff8f15995adf469.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 532,
+       "y": 698,
+       "w": 166,
+       "h": 408
+      }
+     },
+     "thumb": "files/fe35bcfaa62a8b94.webp",
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+    },
+    {
+     "id": "アニメ　その２/くつ/かいがらパンプス",
+     "name": "かいがらパンプス",
+     "category": "くつ",
+     "image": {
+      "file": "files/bed85d8c6b932684.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 544,
+       "y": 1020,
+       "w": 142,
+       "h": 98
+      }
+     },
+     "thumb": "files/b2d64f2cba51443c.webp",
+     "hide": {
+      "file": "files/ad245b1cc039cc20.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 443,
+       "y": 934,
+       "w": 140,
+       "h": 69
+      }
+     },
+     "under": {
+      "file": "files/5951eab6ee8f220f.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 562,
+       "y": 1036,
+       "w": 107,
+       "h": 44
+      }
+     },
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/しんじゅティアラ",
+     "name": "しんじゅティアラ",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/91ed82b3f3619424.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 549,
+       "y": 76,
+       "w": 131,
+       "h": 77
+      }
+     },
+     "thumb": "files/c475e83faa16f25c.webp",
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/ゆめのネックレス",
+     "name": "ゆめのネックレス",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/b3a49acac1c0757f.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 567,
+       "y": 273,
+       "w": 96,
+       "h": 129
+      }
+     },
+     "thumb": "files/5027dcd1673b4d41.webp",
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/なみなみロング",
+     "name": "なみなみロング",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/f6cf7178dcb00650.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 449,
+       "y": 70,
+       "w": 330,
+       "h": 356
+      }
+     },
+     "thumb": "files/c44e2147df79ef91.webp",
+     "layer": 10,
+     "back": {
+      "file": "files/1e1aef2a3dbabdc4.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 383,
+       "y": 70,
+       "w": 461,
+       "h": 519
+      }
+     },
+     "backThumb": "files/2d495f797dbb9926.webp",
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+    },
+    {
+     "id": "アニメ　その２/ヘアスタイル/ふたつおだんご",
+     "name": "ふたつおだんご",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/26885616c6c6c223.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 493,
+       "y": 63,
+       "w": 244,
+       "h": 223
+      }
+     },
+     "thumb": "files/11b1bd86d43c5e90.webp",
+     "back": {
+      "file": "files/71f9bd654fe02d14.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 492,
+       "y": 63,
+       "w": 246,
+       "h": 234
+      }
+     },
+     "backThumb": "files/99fd1472e51ef49d.webp"
+    },
+    {
+     "id": "アニメ　その２/てぶくろ/ふわふわうみてぶくろ",
+     "name": "ふわふわうみてぶくろ",
+     "category": "てぶくろ",
+     "image": {
+      "file": "files/e4806c045291990b.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 387,
+       "y": 447,
+       "w": 455,
+       "h": 216
+      }
+     },
+     "thumb": "files/19d89f6f28614102.webp",
+     "layer": 5,
+     "hide": {
+      "file": "files/6fd41c65cc0fbf23.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 285,
+       "y": 487,
+       "w": 455,
+       "h": 73
+      }
+     },
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
     }
    ],
    "backgrounds": [
@@ -4613,6 +4816,10 @@
     {
      "id": "アニメ　その２/セット/きらきらハートアイドル",
      "name": "きらきらハートアイドル"
+    },
+    {
+     "id": "アニメ　その２/セット/ゆめふわマーメイド",
+     "name": "ゆめふわマーメイド"
     }
    ]
   },
