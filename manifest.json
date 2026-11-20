@@ -5137,6 +5137,23 @@
       }
      },
      "backThumb": "files/cbb50893369376bb.webp"
+    },
+    {
+     "id": "アニメ　その２/ぼうし/てんしのわっか",
+     "name": "てんしのわっか",
+     "category": "ぼうし",
+     "image": {
+      "file": "files/219543416ac54cc0.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 510,
+       "y": 61,
+       "w": 209,
+       "h": 62
+      }
+     },
+     "thumb": "files/f8b767d2de59b929.webp"
     }
    ],
    "backgrounds": [
