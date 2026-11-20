@@ -1859,6 +1859,14 @@
      "menuOrder": 3,
      "overlap": false,
      "movable": false
+    },
+    {
+     "id": "ヘアスタイル",
+     "label": "ヘアスタイル",
+     "layer": 11,
+     "menuOrder": 8,
+     "overlap": false,
+     "movable": false
     }
    ],
    "items": [
@@ -2048,6 +2056,23 @@
       }
      },
      "thumb": "files/8fe8353c514e3b49.webp"
+    },
+    {
+     "id": "リアル/かお/クールなおとなフェイス",
+     "name": "クールなおとなフェイス",
+     "category": "かお",
+     "image": {
+      "file": "files/ebc2f83ab387f07d.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 563,
+       "y": 132,
+       "w": 102,
+       "h": 126
+      }
+     },
+     "thumb": "files/4ec6e2fe355cd3c3.webp"
     }
    ],
    "backgrounds": []
@@ -3257,23 +3282,6 @@
      "thumb": "files/253cbaa5bd6608bc.webp"
     },
     {
-     "id": "アニメ　その２/ソックス/黒いソックス",
-     "name": "黒いソックス",
-     "category": "ソックス",
-     "image": {
-      "file": "files/19eea8d8d0eadc19.webp",
-      "canvasW": 495,
-      "canvasH": 1024,
-      "box": {
-       "x": 181,
-       "y": 734,
-       "w": 136,
-       "h": 270
-      }
-     },
-     "thumb": "files/5e67e228912fe236.webp"
-    },
-    {
      "id": "アニメ　その２/インナー/キャミソール",
      "name": "キャミソール",
      "category": "インナー",
@@ -4277,23 +4285,6 @@
       }
      },
      "thumb": "files/34e4f1d785c498ac.webp"
-    },
-    {
-     "id": "アニメ　その２/ソックス/きらきらさんごソックス",
-     "name": "きらきらさんごソックス",
-     "category": "ソックス",
-     "image": {
-      "file": "files/5a861e3f18c037a9.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 414,
-       "y": 533,
-       "w": 199,
-       "h": 471
-      }
-     },
-     "thumb": "files/a06a5e4ebf6b2262.webp"
     },
     {
      "id": "アニメ　その２/ぼうし/きらきらてんしのわ",
