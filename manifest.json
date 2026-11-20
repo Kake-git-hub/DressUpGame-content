@@ -5190,6 +5190,12 @@
      "name": "Gemini_Generated_Image_tupn88tupn88tupn",
      "file": "files/5e403a227823727a.jpg",
      "thumb": "files/8ba47bef5a77ba37.jpg"
+    },
+    {
+     "id": "アニメ　その２/bg/からくりやしきのひろま",
+     "name": "からくりやしきのひろま",
+     "file": "files/490d3bf86d69f89c.jpg",
+     "thumb": "files/d18f7f1eb4f53a65.jpg"
     }
    ],
    "sets": [
@@ -5780,7 +5786,14 @@
      "thumb": "files/f8c0d14da90b9eae.webp"
     }
    ],
-   "backgrounds": [],
+   "backgrounds": [
+    {
+     "id": "おとこのこ/bg/からくりやしきのひろま",
+     "name": "からくりやしきのひろま",
+     "file": "files/490d3bf86d69f89c.jpg",
+     "thumb": "files/d18f7f1eb4f53a65.jpg"
+    }
+   ],
    "sets": [
     {
      "id": "おとこのこ/セット/はくばのおうじさま",
