@@ -4590,6 +4590,23 @@
       }
      },
      "thumb": "files/52c955f81870803a.webp"
+    },
+    {
+     "id": "アニメ　その２/ドレス/はねのてんしドレス",
+     "name": "はねのてんしドレス",
+     "category": "ドレス",
+     "image": {
+      "file": "files/4a881ad9e8281de2.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 281,
+       "y": 291,
+       "w": 667,
+       "h": 702
+      }
+     },
+     "thumb": "files/2266307d12a00720.webp"
     }
    ],
    "backgrounds": []
