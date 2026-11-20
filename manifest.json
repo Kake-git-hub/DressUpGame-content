@@ -3084,7 +3084,264 @@
      "movable": false
     }
    ],
-   "items": [],
+   "items": [
+    {
+     "id": "おとこのこ/かお/にこにこ",
+     "name": "にこにこ",
+     "category": "かお",
+     "image": {
+      "file": "files/ddf49d7e6b82471d.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 542,
+       "y": 123,
+       "w": 143,
+       "h": 156
+      }
+     },
+     "thumb": "files/a455985e2d6f6d8d.webp"
+    },
+    {
+     "id": "おとこのこ/かお/げんき",
+     "name": "げんき",
+     "category": "かお",
+     "image": {
+      "file": "files/43ed10b5c82c71a2.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 542,
+       "y": 123,
+       "w": 143,
+       "h": 156
+      }
+     },
+     "thumb": "files/6f30cd7a1da12ac8.webp"
+    },
+    {
+     "id": "おとこのこ/ヘアスタイル/ちゃいろのツンツン",
+     "name": "ちゃいろのツンツン",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/9b09d3c21910f569.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 503,
+       "y": 49,
+       "w": 220,
+       "h": 168
+      }
+     },
+     "thumb": "files/56760a4477cb960b.webp",
+     "back": {
+      "file": "files/e108d7164cab83b0.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 502,
+       "y": 49,
+       "w": 221,
+       "h": 182
+      }
+     },
+     "backThumb": "files/85ac7a3765aedce7.webp"
+    },
+    {
+     "id": "おとこのこ/ヘアスタイル/きんいろのさらさら",
+     "name": "きんいろのさらさら",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/57c2cf7af3e7007d.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 526,
+       "y": 82,
+       "w": 176,
+       "h": 142
+      }
+     },
+     "thumb": "files/6680ed50de7b1544.webp",
+     "back": {
+      "file": "files/0dc6c2e86ef60b2b.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 525,
+       "y": 81,
+       "w": 178,
+       "h": 153
+      }
+     },
+     "backThumb": "files/f137840eeb70ac8e.webp"
+    },
+    {
+     "id": "おとこのこ/トップス/ほしのTシャツ",
+     "name": "ほしのTシャツ",
+     "category": "トップス",
+     "image": {
+      "file": "files/dfea93ad85b8a2dc.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 474,
+       "y": 294,
+       "w": 279,
+       "h": 353
+      }
+     },
+     "thumb": "files/3b11a4a329cd3171.webp"
+    },
+    {
+     "id": "おとこのこ/トップス/きいろのパーカー",
+     "name": "きいろのパーカー",
+     "category": "トップス",
+     "image": {
+      "file": "files/c27cfb8f41b550c0.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 419,
+       "y": 206,
+       "w": 391,
+       "h": 441
+      }
+     },
+     "thumb": "files/a69bf1ca598b605e.webp"
+    },
+    {
+     "id": "おとこのこ/ボトムス/デニムのハーフパンツ",
+     "name": "デニムのハーフパンツ",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/db87702218912efd.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 499,
+       "y": 508,
+       "w": 231,
+       "h": 349
+      }
+     },
+     "thumb": "files/52960f4ba8329a7d.webp"
+    },
+    {
+     "id": "おとこのこ/ボトムス/カーキのながズボン",
+     "name": "カーキのながズボン",
+     "category": "ボトムス",
+     "image": {
+      "file": "files/f3ca3d3c46b69189.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 511,
+       "y": 509,
+       "w": 208,
+       "h": 540
+      }
+     },
+     "thumb": "files/c76b6f37881e82a8.webp"
+    },
+    {
+     "id": "おとこのこ/くつ/あかいスニーカー",
+     "name": "あかいスニーカー",
+     "category": "くつ",
+     "image": {
+      "file": "files/a9b70245e8c25efd.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 545,
+       "y": 1015,
+       "w": 139,
+       "h": 97
+      }
+     },
+     "thumb": "files/30e788ecd2d79bf0.webp",
+     "hide": {
+      "file": "files/afc946b42577efe7.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 442,
+       "y": 943,
+       "w": 141,
+       "h": 64
+      }
+     }
+    },
+    {
+     "id": "おとこのこ/くつ/ちゃいろのブーツ",
+     "name": "ちゃいろのブーツ",
+     "category": "くつ",
+     "image": {
+      "file": "files/2e8694d830f11e69.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 546,
+       "y": 995,
+       "w": 137,
+       "h": 116
+      }
+     },
+     "thumb": "files/fc9db2d2593f6584.webp",
+     "hide": {
+      "file": "files/624ba1f11ce6ad49.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 442,
+       "y": 933,
+       "w": 141,
+       "h": 74
+      }
+     },
+     "under": {
+      "file": "files/e46e1cf9ff9016bf.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 549,
+       "y": 1055,
+       "w": 14,
+       "h": 37
+      }
+     }
+    },
+    {
+     "id": "おとこのこ/ヘアスタイル/くろいショート",
+     "name": "くろいショート",
+     "category": "ヘアスタイル",
+     "image": {
+      "file": "files/9542743b9f6df8ee.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 510,
+       "y": 63,
+       "w": 206,
+       "h": 160
+      }
+     },
+     "thumb": "files/d6e1e2c258db0b52.webp",
+     "back": {
+      "file": "files/27748528e26f9c1f.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 510,
+       "y": 62,
+       "w": 207,
+       "h": 171
+      }
+     },
+     "backThumb": "files/268310a4de884f57.webp"
+    }
+   ],
    "backgrounds": []
   }
  ],
