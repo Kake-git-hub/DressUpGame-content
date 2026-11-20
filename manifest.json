@@ -1520,23 +1520,6 @@
      "thumb": "files/c6ed3f0baad0796c.webp"
     },
     {
-     "id": "アニメ/くつ/きらきらマーメイドぐつ",
-     "name": "きらきらマーメイドぐつ",
-     "category": "くつ",
-     "image": {
-      "file": "files/0ff2b39b59b2383d.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 434,
-       "y": 898,
-       "w": 158,
-       "h": 119
-      }
-     },
-     "thumb": "files/fdd732c1cda265b8.webp"
-    },
-    {
      "id": "アニメ/ボトムス/デニムショートパンツ",
      "name": "デニムショートパンツ",
      "category": "ボトムス",
@@ -1603,23 +1586,6 @@
       }
      },
      "thumb": "files/393c48ec1c5d0bce.webp"
-    },
-    {
-     "id": "アニメ/くつ/うみのきらきらバレエ",
-     "name": "うみのきらきらバレエ",
-     "category": "くつ",
-     "image": {
-      "file": "files/1b92bdb373f404d8.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 428,
-       "y": 514,
-       "w": 170,
-       "h": 496
-      }
-     },
-     "thumb": "files/34e4f1d785c498ac.webp"
     },
     {
      "id": "アニメ/ソックス/きらきらさんごソックス",
@@ -1690,64 +1656,6 @@
      "thumb": "files/9bdee55491c48c74.webp"
     },
     {
-     "id": "アニメ/ヘアスタイル/きらきらロングヘア",
-     "name": "きらきらロングヘア",
-     "category": "ヘアスタイル",
-     "image": {
-      "file": "files/46ddedf371d19728.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 510,
-       "y": 126,
-       "w": 197,
-       "h": 276
-      }
-     },
-     "thumb": "files/eff8321fdd9f7cb0.webp",
-     "back": {
-      "file": "files/e043a2760abd4c20.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 384,
-       "y": 125,
-       "w": 462,
-       "h": 672
-      }
-     },
-     "backThumb": "files/e2a4f69498727ad5.webp"
-    },
-    {
-     "id": "アニメ/ヘアスタイル/さらさらくろかみロング",
-     "name": "さらさらくろかみロング",
-     "category": "ヘアスタイル",
-     "image": {
-      "file": "files/8e57a554e1af5b90.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 379,
-       "y": 124,
-       "w": 472,
-       "h": 529
-      }
-     },
-     "thumb": "files/2e6f2c1f5f051bcb.webp",
-     "back": {
-      "file": "files/bbb18c32ac0905a3.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 283,
-       "y": 48,
-       "w": 670,
-       "h": 986
-      }
-     },
-     "backThumb": "files/dc33818ec2559f9b.webp"
-    },
-    {
      "id": "アニメ/かお/きらきらにっこり",
      "name": "きらきらにっこり",
      "category": "かお",
@@ -1765,23 +1673,6 @@
      "thumb": "files/b396e4a56fb438d7.webp"
     },
     {
-     "id": "アニメ/かお/きらきらおめめ",
-     "name": "きらきらおめめ",
-     "category": "かお",
-     "image": {
-      "file": "files/c9acd86211eb2adb.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 570,
-       "y": 174,
-       "w": 90,
-       "h": 74
-      }
-     },
-     "thumb": "files/094e0216365241a3.webp"
-    },
-    {
      "id": "アニメ/ぼうし/ゆめのうみティアラ",
      "name": "ゆめのうみティアラ",
      "category": "ぼうし",
@@ -1797,119 +1688,6 @@
       }
      },
      "thumb": "files/0840c80d3d6b615e.webp"
-    },
-    {
-     "id": "アニメ/くつ/ゆめいろマーメイドシューズ",
-     "name": "ゆめいろマーメイドシューズ",
-     "category": "くつ",
-     "image": {
-      "file": "files/e279a0a798b3b45a.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 535,
-       "y": 929,
-       "w": 162,
-       "h": 194
-      }
-     },
-     "thumb": "files/2566b607427db2cc.webp",
-     "hide": {
-      "file": "files/1f3c8cea6d04b7b4.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 524,
-       "y": 868,
-       "w": 1,
-       "h": 1
-      }
-     }
-    },
-    {
-     "id": "アニメ/ヘアスタイル/きらきらきんぱつロング",
-     "name": "きらきらきんぱつロング",
-     "category": "ヘアスタイル",
-     "image": {
-      "file": "files/3d6f8f71db10e2db.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 557,
-       "y": 124,
-       "w": 117,
-       "h": 125
-      }
-     },
-     "thumb": "files/5f2e20b63b0593f7.webp",
-     "back": {
-      "file": "files/309a181291c2196e.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 353,
-       "y": 44,
-       "w": 526,
-       "h": 615
-      }
-     },
-     "backThumb": "files/011f1a6da288d1bf.webp"
-    },
-    {
-     "id": "アニメ/くつ/きらきらがらすのくつ",
-     "name": "きらきらがらすのくつ",
-     "category": "くつ",
-     "image": {
-      "file": "files/075b7b98609b557a.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 539,
-       "y": 1031,
-       "w": 159,
-       "h": 113
-      }
-     },
-     "thumb": "files/0fd5f04c1a20eb32.webp",
-     "hide": {
-      "file": "files/492049c3c9349877.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 446,
-       "y": 789,
-       "w": 134,
-       "h": 204
-      }
-     }
-    },
-    {
-     "id": "アニメ/くつ/きらきらがらすのくつ-2",
-     "name": "きらきらがらすのくつ",
-     "category": "くつ",
-     "image": {
-      "file": "files/c12160c6c1b9e31b.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 515,
-       "y": 1028,
-       "w": 192,
-       "h": 125
-      }
-     },
-     "thumb": "files/68f074dd4d39e849.webp",
-     "hide": {
-      "file": "files/6dbc279dbc4993a9.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 505,
-       "y": 900,
-       "w": 73,
-       "h": 88
-      }
-     }
     }
    ],
    "backgrounds": [
@@ -2245,23 +2023,6 @@
       }
      },
      "thumb": "files/8eb32a8ec5559feb.webp"
-    },
-    {
-     "id": "リアル/かお/きらきらおめめ",
-     "name": "きらきらおめめ",
-     "category": "かお",
-     "image": {
-      "file": "files/6d5d9ffe8cfcaa78.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 460,
-       "y": 76,
-       "w": 105,
-       "h": 94
-      }
-     },
-     "thumb": "files/154110a168434ac4.webp"
     }
    ],
    "backgrounds": []
@@ -4561,64 +4322,6 @@
      "thumb": "files/9bdee55491c48c74.webp"
     },
     {
-     "id": "アニメ　その２/ヘアスタイル/きらきらロングヘア",
-     "name": "きらきらロングヘア",
-     "category": "ヘアスタイル",
-     "image": {
-      "file": "files/46ddedf371d19728.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 510,
-       "y": 126,
-       "w": 197,
-       "h": 276
-      }
-     },
-     "thumb": "files/eff8321fdd9f7cb0.webp",
-     "back": {
-      "file": "files/e043a2760abd4c20.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 384,
-       "y": 125,
-       "w": 462,
-       "h": 672
-      }
-     },
-     "backThumb": "files/e2a4f69498727ad5.webp"
-    },
-    {
-     "id": "アニメ　その２/ヘアスタイル/さらさらくろかみロング",
-     "name": "さらさらくろかみロング",
-     "category": "ヘアスタイル",
-     "image": {
-      "file": "files/8e57a554e1af5b90.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 379,
-       "y": 124,
-       "w": 472,
-       "h": 529
-      }
-     },
-     "thumb": "files/2e6f2c1f5f051bcb.webp",
-     "back": {
-      "file": "files/bbb18c32ac0905a3.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 283,
-       "y": 48,
-       "w": 670,
-       "h": 986
-      }
-     },
-     "backThumb": "files/dc33818ec2559f9b.webp"
-    },
-    {
      "id": "アニメ　その２/かお/きらきらにっこり",
      "name": "きらきらにっこり",
      "category": "かお",
@@ -4634,23 +4337,6 @@
       }
      },
      "thumb": "files/b396e4a56fb438d7.webp"
-    },
-    {
-     "id": "アニメ　その２/かお/きらきらおめめ-2",
-     "name": "きらきらおめめ",
-     "category": "かお",
-     "image": {
-      "file": "files/c9acd86211eb2adb.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 570,
-       "y": 174,
-       "w": 90,
-       "h": 74
-      }
-     },
-     "thumb": "files/094e0216365241a3.webp"
     },
     {
      "id": "アニメ　その２/ぼうし/ゆめのうみティアラ",
@@ -4696,35 +4382,6 @@
        "h": 1
       }
      }
-    },
-    {
-     "id": "アニメ　その２/ヘアスタイル/きらきらきんぱつロング",
-     "name": "きらきらきんぱつロング",
-     "category": "ヘアスタイル",
-     "image": {
-      "file": "files/3d6f8f71db10e2db.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 557,
-       "y": 124,
-       "w": 117,
-       "h": 125
-      }
-     },
-     "thumb": "files/5f2e20b63b0593f7.webp",
-     "back": {
-      "file": "files/309a181291c2196e.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 353,
-       "y": 44,
-       "w": 526,
-       "h": 615
-      }
-     },
-     "backThumb": "files/011f1a6da288d1bf.webp"
     },
     {
      "id": "アニメ　その２/くつ/きらきらがらすのくつ",
