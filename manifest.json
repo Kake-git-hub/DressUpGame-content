@@ -2106,7 +2106,7 @@
      "id": "アクセサリー",
      "label": "アクセサリー",
      "layer": 11,
-     "menuOrder": 10,
+     "menuOrder": 5,
      "overlap": true,
      "movable": false
     },
@@ -2114,7 +2114,7 @@
      "id": "ぼうし",
      "label": "ぼうし",
      "layer": 11,
-     "menuOrder": 9,
+     "menuOrder": 10,
      "overlap": false,
      "movable": false
     },
@@ -2122,7 +2122,7 @@
      "id": "てぶくろ",
      "label": "てぶくろ",
      "layer": 1,
-     "menuOrder": 3,
+     "menuOrder": 6,
      "overlap": false,
      "movable": false
     },
@@ -2138,7 +2138,7 @@
      "id": "インナー",
      "label": "インナー",
      "layer": 2,
-     "menuOrder": 4,
+     "menuOrder": 8,
      "overlap": false,
      "movable": false
     },
@@ -2146,7 +2146,7 @@
      "id": "くつ",
      "label": "くつ",
      "layer": 2,
-     "menuOrder": 7,
+     "menuOrder": 4,
      "overlap": false,
      "movable": false
     },
@@ -2154,7 +2154,7 @@
      "id": "ボトムス",
      "label": "ボトムス",
      "layer": 3,
-     "menuOrder": 6,
+     "menuOrder": 9,
      "overlap": false,
      "movable": false
     },
@@ -2170,7 +2170,7 @@
      "id": "トップス",
      "label": "トップス",
      "layer": 4,
-     "menuOrder": 5,
+     "menuOrder": 7,
      "overlap": false,
      "movable": false
     },
@@ -2178,7 +2178,7 @@
      "id": "ヘアスタイル",
      "label": "ヘアスタイル",
      "layer": 11,
-     "menuOrder": 11,
+     "menuOrder": 1,
      "overlap": false,
      "movable": false
     }
@@ -2256,43 +2256,73 @@
      "set": "アニメ　その２/セット/ゆめふわマーメイド"
     },
     {
-     "id": "アニメ　その２/くつ/あかいリボンのパンプス",
-     "name": "あかいリボンのパンプス",
+     "id": "アニメ　その２/くつ/かいがらパンプス",
+     "name": "かいがらパンプス",
      "category": "くつ",
      "image": {
-      "file": "files/15f55cdc8a69ae2b.webp",
+      "file": "files/bed85d8c6b932684.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 549,
-       "y": 1018,
-       "w": 132,
-       "h": 93
+       "x": 544,
+       "y": 1020,
+       "w": 142,
+       "h": 98
       }
      },
-     "thumb": "files/9d89fae1d15edb46.webp",
+     "thumb": "files/b2d64f2cba51443c.webp",
      "hide": {
-      "file": "files/7be0c7270e82af41.webp",
+      "file": "files/ad245b1cc039cc20.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
        "x": 443,
-       "y": 939,
-       "w": 139,
-       "h": 67
+       "y": 934,
+       "w": 140,
+       "h": 69
       }
      },
      "under": {
-      "file": "files/5017c77a497b5e2d.webp",
+      "file": "files/5951eab6ee8f220f.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
        "x": 562,
-       "y": 1038,
-       "w": 106,
-       "h": 38
+       "y": 1036,
+       "w": 107,
+       "h": 44
       }
-     }
+     },
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+    },
+    {
+     "id": "アニメ　その２/くつ/ハートブーツ",
+     "name": "ハートブーツ",
+     "category": "くつ",
+     "image": {
+      "file": "files/c6164d5982a8ab08.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 547,
+       "y": 987,
+       "w": 136,
+       "h": 122
+      }
+     },
+     "thumb": "files/59752051f33327e2.webp",
+     "hide": {
+      "file": "files/14f17b7d6e7a0f12.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 443,
+       "y": 934,
+       "w": 140,
+       "h": 73
+      }
+     },
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
     },
     {
      "id": "アニメ　その２/くつ/そらいろスニーカー",
@@ -2359,34 +2389,6 @@
        "y": 1036,
        "w": 129,
        "h": 68
-      }
-     }
-    },
-    {
-     "id": "アニメ　その２/くつ/きいろいながぐつ",
-     "name": "きいろいながぐつ",
-     "category": "くつ",
-     "image": {
-      "file": "files/4f42ef0ba127fe0d.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 543,
-       "y": 940,
-       "w": 144,
-       "h": 170
-      }
-     },
-     "thumb": "files/1af78b371f583ea5.webp",
-     "hide": {
-      "file": "files/63c302934602d880.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 443,
-       "y": 934,
-       "w": 139,
-       "h": 72
       }
      }
     },
@@ -2623,24 +2625,6 @@
      "thumb": "files/16d3fc9040890b78.webp"
     },
     {
-     "id": "アニメ　その２/ソックス/ほしのニーソ",
-     "name": "ほしのニーソ",
-     "category": "ソックス",
-     "image": {
-      "file": "files/6c206c14da15be5b.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 534,
-       "y": 709,
-       "w": 164,
-       "h": 397
-      }
-     },
-     "thumb": "files/54468893eedf368d.webp",
-     "set": "アニメ　その２/セット/きらきらハートアイドル"
-    },
-    {
      "id": "アニメ　その２/ソックス/しろいハイソックス",
      "name": "しろいハイソックス",
      "category": "ソックス",
@@ -2657,6 +2641,24 @@
      },
      "thumb": "files/266d8ef8000d3813.webp",
      "set": "アニメ　その２/セット/チアガール"
+    },
+    {
+     "id": "アニメ　その２/ソックス/ほしのニーソ",
+     "name": "ほしのニーソ",
+     "category": "ソックス",
+     "image": {
+      "file": "files/6c206c14da15be5b.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 534,
+       "y": 709,
+       "w": 164,
+       "h": 397
+      }
+     },
+     "thumb": "files/54468893eedf368d.webp",
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
     },
     {
      "id": "アニメ　その２/てぶくろ/アイドルてぶくろ",
@@ -2971,21 +2973,21 @@
      "thumb": "files/15db6cbe8eb67f6d.webp"
     },
     {
-     "id": "アニメ　その２/アクセサリー/チェックのりぼん",
-     "name": "チェックのりぼん",
+     "id": "アニメ　その２/アクセサリー/おおきなピンクリボン",
+     "name": "おおきなピンクリボン",
      "category": "アクセサリー",
      "image": {
-      "file": "files/e74b432790a552bc.webp",
-      "canvasW": 495,
-      "canvasH": 1024,
+      "file": "files/30167ff12e81900a.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
       "box": {
-       "x": 209,
-       "y": 192,
-       "w": 80,
-       "h": 66
+       "x": 533,
+       "y": 361,
+       "w": 166,
+       "h": 152
       }
      },
-     "thumb": "files/b026d8b4fead4481.webp"
+     "thumb": "files/c0d60b5c2466dd80.webp"
     },
     {
      "id": "アニメ　その２/アクセサリー/ふわふわてんしのはね",
@@ -3026,57 +3028,58 @@
      "set": "アニメ　その２/セット/こあくまデビル"
     },
     {
-     "id": "アニメ　その２/アクセサリー/しろくまのぬいぐるみ",
-     "name": "しろくまのぬいぐるみ",
+     "id": "アニメ　その２/アクセサリー/ほしのネックレス",
+     "name": "ほしのネックレス",
      "category": "アクセサリー",
      "image": {
-      "file": "files/89fbc49fa4769681.webp",
+      "file": "files/add098c094567985.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 337,
-       "y": 408,
-       "w": 211,
-       "h": 268
+       "x": 548,
+       "y": 273,
+       "w": 133,
+       "h": 163
       }
      },
-     "thumb": "files/5f11803ea7d404d9.webp"
+     "thumb": "files/85cccfd695ae5aa8.webp",
+     "set": "アニメ　その２/セット/シンデレラセット"
     },
     {
-     "id": "アニメ　その２/アクセサリー/わたあめステッキ",
-     "name": "わたあめステッキ",
+     "id": "アニメ　その２/アクセサリー/ゆめのネックレス",
+     "name": "ゆめのネックレス",
      "category": "アクセサリー",
      "image": {
-      "file": "files/62b3de9e55d5ead5.webp",
+      "file": "files/b3a49acac1c0757f.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 746,
-       "y": 154,
-       "w": 303,
-       "h": 592
+       "x": 567,
+       "y": 273,
+       "w": 96,
+       "h": 129
       }
      },
-     "thumb": "files/52c955f81870803a.webp"
+     "thumb": "files/5027dcd1673b4d41.webp",
+     "set": "アニメ　その２/セット/ゆめふわマーメイド"
     },
     {
-     "id": "アニメ　その２/アクセサリー/ハートのステッキ",
-     "name": "ハートのステッキ",
-     "category": "アクセサリー",
+     "id": "アニメ　その２/ぼうし/きらきらティアラ",
+     "name": "きらきらティアラ",
+     "category": "ぼうし",
      "image": {
-      "file": "files/1af524bc1861a408.webp",
+      "file": "files/e71e81e31ea02bde.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 718,
-       "y": 377,
-       "w": 277,
-       "h": 353
+       "x": 540,
+       "y": 72,
+       "w": 157,
+       "h": 91
       }
      },
-     "thumb": "files/d5d4408e10153aaf.webp",
-     "layer": 10,
-     "set": "アニメ　その２/セット/きらきらハートアイドル"
+     "thumb": "files/d590d017cb9635e6.webp",
+     "set": "アニメ　その２/セット/シンデレラセット"
     },
     {
      "id": "アニメ　その２/ぼうし/ちいさなティアラ",
@@ -3112,40 +3115,6 @@
       }
      },
      "thumb": "files/1b6ec4feaf32b6f3.webp"
-    },
-    {
-     "id": "アニメ　その２/ぼうし/ゆめのうみティアラ",
-     "name": "ゆめのうみティアラ",
-     "category": "ぼうし",
-     "image": {
-      "file": "files/50ba8db2dfe586df.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 541,
-       "y": 96,
-       "w": 147,
-       "h": 79
-      }
-     },
-     "thumb": "files/0840c80d3d6b615e.webp"
-    },
-    {
-     "id": "アニメ　その２/ぼうし/うみのゆめティアラ",
-     "name": "うみのゆめティアラ",
-     "category": "ぼうし",
-     "image": {
-      "file": "files/92d4ef6c5a63fa8d.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 517,
-       "y": 76,
-       "w": 199,
-       "h": 288
-      }
-     },
-     "thumb": "files/63909fd4041fe9a0.webp"
     },
     {
      "id": "アニメ　その２/てぶくろ/あかいミトン",
@@ -3227,6 +3196,34 @@
      "thumb": "files/570c3bc93b07ae86.webp"
     },
     {
+     "id": "アニメ　その２/くつ/きいろいながぐつ",
+     "name": "きいろいながぐつ",
+     "category": "くつ",
+     "image": {
+      "file": "files/4f42ef0ba127fe0d.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 543,
+       "y": 940,
+       "w": 144,
+       "h": 170
+      }
+     },
+     "thumb": "files/1af78b371f583ea5.webp",
+     "hide": {
+      "file": "files/63c302934602d880.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
+      "box": {
+       "x": 443,
+       "y": 934,
+       "w": 139,
+       "h": 72
+      }
+     }
+    },
+    {
      "id": "アニメ　その２/くつ/リボンのバレエシューズ",
      "name": "リボンのバレエシューズ",
      "category": "くつ",
@@ -3264,57 +3261,6 @@
        "h": 71
       }
      }
-    },
-    {
-     "id": "アニメ　その２/くつ/もこもこブーツ",
-     "name": "もこもこブーツ",
-     "category": "くつ",
-     "image": {
-      "file": "files/cb2741e88c6761d2.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 415,
-       "y": 750,
-       "w": 198,
-       "h": 263
-      }
-     },
-     "thumb": "files/7e782279a94384d5.webp"
-    },
-    {
-     "id": "アニメ　その２/くつ/アイドル靴",
-     "name": "アイドル靴",
-     "category": "くつ",
-     "image": {
-      "file": "files/4d905af4faf850f4.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 423,
-       "y": 591,
-       "w": 179,
-       "h": 420
-      }
-     },
-     "thumb": "files/e6d081ccfc260a95.webp"
-    },
-    {
-     "id": "アニメ　その２/くつ/ガラスの靴",
-     "name": "ガラスの靴",
-     "category": "くつ",
-     "image": {
-      "file": "files/1819cb014aa70e64.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 451,
-       "y": 895,
-       "w": 209,
-       "h": 129
-      }
-     },
-     "thumb": "files/b5d45647faa104ba.webp"
     },
     {
      "id": "アニメ　その２/ボトムス/ジーパン",
@@ -3607,23 +3553,6 @@
      "thumb": "files/3e454eb1990ee004.webp"
     },
     {
-     "id": "アニメ　その２/トップス/ドクター服",
-     "name": "ドクター服",
-     "category": "トップス",
-     "image": {
-      "file": "files/f54c4e8f5e61ddb2.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 336,
-       "y": 160,
-       "w": 355,
-       "h": 530
-      }
-     },
-     "thumb": "files/189684389692c6cd.webp"
-    },
-    {
      "id": "アニメ　その２/トップス/ナース服",
      "name": "ナース服",
      "category": "トップス",
@@ -3639,57 +3568,6 @@
       }
      },
      "thumb": "files/cecd1c83848948c2.webp"
-    },
-    {
-     "id": "アニメ　その２/トップス/パティシエ",
-     "name": "パティシエ",
-     "category": "トップス",
-     "image": {
-      "file": "files/530c645c7a1bb055.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 0,
-       "y": 0,
-       "w": 1024,
-       "h": 1024
-      }
-     },
-     "thumb": "files/a040a4ce05b7d9fe.webp"
-    },
-    {
-     "id": "アニメ　その２/トップス/ブレザー",
-     "name": "ブレザー",
-     "category": "トップス",
-     "image": {
-      "file": "files/d1c26fa4ea1f2826.webp",
-      "canvasW": 495,
-      "canvasH": 1024,
-      "box": {
-       "x": 74,
-       "y": 171,
-       "w": 350,
-       "h": 305
-      }
-     },
-     "thumb": "files/c19de990dfbfe314.webp"
-    },
-    {
-     "id": "アニメ　その２/トップス/ライダースジャケット",
-     "name": "ライダースジャケット",
-     "category": "トップス",
-     "image": {
-      "file": "files/5ab5afa61643eb40.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 323,
-       "y": 153,
-       "w": 395,
-       "h": 347
-      }
-     },
-     "thumb": "files/eb57863dfef5119f.webp"
     },
     {
      "id": "アニメ　その２/トップス/園児ブラウス",
@@ -3726,40 +3604,6 @@
      "thumb": "files/6e6aa43db36a94ad.webp"
     },
     {
-     "id": "アニメ　その２/トップス/美容師かわいいVer",
-     "name": "美容師かわいいVer",
-     "category": "トップス",
-     "image": {
-      "file": "files/d84c29a420255c2d.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 0,
-       "y": 0,
-       "w": 1024,
-       "h": 1024
-      }
-     },
-     "thumb": "files/19770ba5c8fe59c2.webp"
-    },
-    {
-     "id": "アニメ　その２/トップス/美容師エプロン",
-     "name": "美容師エプロン",
-     "category": "トップス",
-     "image": {
-      "file": "files/bc5e444c1800a9c7.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 0,
-       "y": 0,
-       "w": 964,
-       "h": 1024
-      }
-     },
-     "thumb": "files/b39f349604a7404e.webp"
-    },
-    {
      "id": "アニメ　その２/かお/シンデレラ顔",
      "name": "シンデレラ顔",
      "category": "かお",
@@ -3777,21 +3621,21 @@
      "thumb": "files/364320842e159104.webp"
     },
     {
-     "id": "アニメ　その２/アクセサリー/園児カバン",
-     "name": "園児カバン",
+     "id": "アニメ　その２/アクセサリー/しろくまのぬいぐるみ",
+     "name": "しろくまのぬいぐるみ",
      "category": "アクセサリー",
      "image": {
-      "file": "files/979102235a5571cf.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
+      "file": "files/89fbc49fa4769681.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
       "box": {
-       "x": 368,
-       "y": 177,
-       "w": 209,
-       "h": 391
+       "x": 337,
+       "y": 408,
+       "w": 211,
+       "h": 268
       }
      },
-     "thumb": "files/71cb530d701de566.webp"
+     "thumb": "files/5f11803ea7d404d9.webp"
     },
     {
      "id": "アニメ　その２/ボトムス/チアリーディング・プリーツスカート",
@@ -3865,23 +3709,6 @@
      "thumb": "files/0ca1e0ff515aedc0.webp"
     },
     {
-     "id": "アニメ　その２/ボトムス/デニムショートパンツ",
-     "name": "デニムショートパンツ",
-     "category": "ボトムス",
-     "image": {
-      "file": "files/501fc74f5fd4cd5c.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 405,
-       "y": 379,
-       "w": 217,
-       "h": 175
-      }
-     },
-     "thumb": "files/29be0624a5cb4209.webp"
-    },
-    {
      "id": "アニメ　その２/ドレス/プリンセスドレス",
      "name": "プリンセスドレス",
      "category": "ドレス",
@@ -3899,39 +3726,39 @@
      "thumb": "files/3b6ea4b177e70a12.webp"
     },
     {
-     "id": "アニメ　その２/ぼうし/しんじゅティアラ",
-     "name": "しんじゅティアラ",
+     "id": "アニメ　その２/ぼうし/うみのゆめティアラ",
+     "name": "うみのゆめティアラ",
      "category": "ぼうし",
      "image": {
-      "file": "files/91ed82b3f3619424.webp",
+      "file": "files/92d4ef6c5a63fa8d.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 549,
+       "x": 517,
        "y": 76,
-       "w": 131,
-       "h": 77
+       "w": 199,
+       "h": 288
       }
      },
-     "thumb": "files/c475e83faa16f25c.webp",
+     "thumb": "files/63909fd4041fe9a0.webp",
      "set": "アニメ　その２/セット/ゆめふわマーメイド"
     },
     {
-     "id": "アニメ　その２/アクセサリー/マフラー",
-     "name": "マフラー",
+     "id": "アニメ　その２/アクセサリー/わたあめステッキ",
+     "name": "わたあめステッキ",
      "category": "アクセサリー",
      "image": {
-      "file": "files/8f2a81fb6b37ec60.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
+      "file": "files/62b3de9e55d5ead5.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
       "box": {
-       "x": 0,
-       "y": 0,
-       "w": 1024,
-       "h": 1024
+       "x": 746,
+       "y": 154,
+       "w": 303,
+       "h": 592
       }
      },
-     "thumb": "files/86df8e074e545921.webp"
+     "thumb": "files/52c955f81870803a.webp"
     },
     {
      "id": "アニメ　その２/かお/ベル顔",
@@ -3949,23 +3776,6 @@
       }
      },
      "thumb": "files/7350ef44c465c7c1.webp"
-    },
-    {
-     "id": "アニメ　その２/ぼうし/ゴスロリカチューシャ",
-     "name": "ゴスロリカチューシャ",
-     "category": "ぼうし",
-     "image": {
-      "file": "files/e3a00fdcddd46831.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 432,
-       "y": 7,
-       "w": 163,
-       "h": 166
-      }
-     },
-     "thumb": "files/ecf7bb56dcfbb19c.webp"
     },
     {
      "id": "アニメ　その２/ヘアスタイル/ふんわりアップ",
@@ -4016,55 +3826,57 @@
      "thumb": "files/901d44aeb8cfcf76.webp"
     },
     {
-     "id": "アニメ　その２/ぼうし/園児ぼうし",
-     "name": "園児ぼうし",
+     "id": "アニメ　その２/ぼうし/ゴスロリカチューシャ",
+     "name": "ゴスロリカチューシャ",
      "category": "ぼうし",
      "image": {
-      "file": "files/1f9a806381d44e02.webp",
+      "file": "files/e3a00fdcddd46831.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 431,
-       "y": 16,
-       "w": 165,
-       "h": 97
+       "x": 432,
+       "y": 7,
+       "w": 163,
+       "h": 166
       }
      },
-     "thumb": "files/abd053c1b44c9015.webp"
+     "thumb": "files/ecf7bb56dcfbb19c.webp"
     },
     {
-     "id": "アニメ　その２/アクセサリー/眼鏡",
-     "name": "眼鏡",
+     "id": "アニメ　その２/アクセサリー/ハートのステッキ",
+     "name": "ハートのステッキ",
      "category": "アクセサリー",
      "image": {
-      "file": "files/33523f084deda94b.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
+      "file": "files/1af524bc1861a408.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
       "box": {
-       "x": 458,
-       "y": 93,
-       "w": 110,
-       "h": 40
+       "x": 718,
+       "y": 377,
+       "w": 277,
+       "h": 353
       }
      },
-     "thumb": "files/f6e0e7c57f8a87d5.webp"
+     "thumb": "files/d5d4408e10153aaf.webp",
+     "layer": 10,
+     "set": "アニメ　その２/セット/きらきらハートアイドル"
     },
     {
-     "id": "アニメ　その２/アクセサリー/聴診器",
-     "name": "聴診器",
+     "id": "アニメ　その２/アクセサリー/園児カバン",
+     "name": "園児カバン",
      "category": "アクセサリー",
      "image": {
-      "file": "files/39f41acdaa81bc4f.webp",
+      "file": "files/979102235a5571cf.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 455,
-       "y": 170,
-       "w": 111,
-       "h": 146
+       "x": 368,
+       "y": 177,
+       "w": 209,
+       "h": 391
       }
      },
-     "thumb": "files/71ee303822f0d025.webp"
+     "thumb": "files/71cb530d701de566.webp"
     },
     {
      "id": "アニメ　その２/ドレス/きらきらステージドレス",
@@ -4118,38 +3930,21 @@
      "thumb": "files/0b33c891937b5ba9.webp"
     },
     {
-     "id": "アニメ　その２/くつ/クリスタルのパンプス",
-     "name": "クリスタルのパンプス",
-     "category": "くつ",
-     "image": {
-      "file": "files/0acb8e6541019b5d.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 436,
-       "y": 900,
-       "w": 154,
-       "h": 122
-      }
-     },
-     "thumb": "files/d3f871d8f1bcdd4b.webp"
-    },
-    {
-     "id": "アニメ　その２/ぼうし/花の冠",
-     "name": "花の冠",
+     "id": "アニメ　その２/ぼうし/園児ぼうし",
+     "name": "園児ぼうし",
      "category": "ぼうし",
      "image": {
-      "file": "files/367d56a27254d9ce.webp",
+      "file": "files/1f9a806381d44e02.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 423,
-       "y": 17,
-       "w": 178,
-       "h": 104
+       "x": 431,
+       "y": 16,
+       "w": 165,
+       "h": 97
       }
      },
-     "thumb": "files/480d4319e2a84bb2.webp"
+     "thumb": "files/abd053c1b44c9015.webp"
     },
     {
      "id": "アニメ　その２/アクセサリー/ゴールデン・チアポンポン",
@@ -4237,23 +4032,6 @@
       }
      },
      "thumb": "files/9d6ce18e7ca32ad7.webp"
-    },
-    {
-     "id": "アニメ　その２/くつ/ゴスロリ靴",
-     "name": "ゴスロリ靴",
-     "category": "くつ",
-     "image": {
-      "file": "files/469e85fabb377e99.webp",
-      "canvasW": 1024,
-      "canvasH": 1024,
-      "box": {
-       "x": 425,
-       "y": 736,
-       "w": 176,
-       "h": 279
-      }
-     },
-     "thumb": "files/2f5b76c38fb8f425.webp"
     },
     {
      "id": "アニメ　その２/ドレス/ゴスロリ",
@@ -4414,46 +4192,56 @@
      "name": "クールなおとなフェイス",
      "category": "かお",
      "image": {
-      "file": "files/ebc2f83ab387f07d.webp",
+      "file": "files/443859c0b52d826c.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 563,
-       "y": 132,
-       "w": 102,
-       "h": 126
+       "x": 540,
+       "y": 104,
+       "w": 148,
+       "h": 183
       }
      },
      "thumb": "files/4ec6e2fe355cd3c3.webp"
     },
     {
-     "id": "アニメ　その２/くつ/ハートブーツ",
-     "name": "ハートブーツ",
+     "id": "アニメ　その２/くつ/あかいリボンのパンプス",
+     "name": "あかいリボンのパンプス",
      "category": "くつ",
      "image": {
-      "file": "files/c6164d5982a8ab08.webp",
+      "file": "files/15f55cdc8a69ae2b.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 547,
-       "y": 987,
-       "w": 136,
-       "h": 122
+       "x": 549,
+       "y": 1018,
+       "w": 132,
+       "h": 93
       }
      },
-     "thumb": "files/59752051f33327e2.webp",
+     "thumb": "files/9d89fae1d15edb46.webp",
      "hide": {
-      "file": "files/14f17b7d6e7a0f12.webp",
+      "file": "files/7be0c7270e82af41.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
        "x": 443,
-       "y": 934,
-       "w": 140,
-       "h": 73
+       "y": 939,
+       "w": 139,
+       "h": 67
       }
      },
-     "set": "アニメ　その２/セット/きらきらハートアイドル"
+     "under": {
+      "file": "files/5017c77a497b5e2d.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 562,
+       "y": 1038,
+       "w": 106,
+       "h": 38
+      }
+     }
     },
     {
      "id": "アニメ　その２/ヘアスタイル/ちゃいろのロング",
@@ -4521,81 +4309,67 @@
      "set": "アニメ　その２/セット/ゆめふわマーメイド"
     },
     {
-     "id": "アニメ　その２/くつ/かいがらパンプス",
-     "name": "かいがらパンプス",
+     "id": "アニメ　その２/くつ/デビルブーツ",
+     "name": "デビルブーツ",
      "category": "くつ",
      "image": {
-      "file": "files/bed85d8c6b932684.webp",
+      "file": "files/042c821a14bd43cf.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 544,
-       "y": 1020,
-       "w": 142,
-       "h": 98
+       "x": 546,
+       "y": 984,
+       "w": 138,
+       "h": 125
       }
      },
-     "thumb": "files/b2d64f2cba51443c.webp",
+     "thumb": "files/524bc5a704c04a91.webp",
      "hide": {
-      "file": "files/ad245b1cc039cc20.webp",
+      "file": "files/c25927bdd7ce02df.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
        "x": 443,
        "y": 934,
        "w": 140,
-       "h": 69
+       "h": 73
       }
      },
-     "under": {
-      "file": "files/5951eab6ee8f220f.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 562,
-       "y": 1036,
-       "w": 107,
-       "h": 44
-      }
-     },
-     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+     "set": "アニメ　その２/セット/こあくまデビル"
     },
     {
-     "id": "アニメ　その２/ぼうし/ふわふわてんしのわっか",
-     "name": "ふわふわてんしのわっか",
+     "id": "アニメ　その２/ぼうし/花の冠",
+     "name": "花の冠",
      "category": "ぼうし",
      "image": {
-      "file": "files/6a645e0b0d293bcd.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
+      "file": "files/367d56a27254d9ce.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
       "box": {
-       "x": 391,
-       "y": 34,
-       "w": 436,
-       "h": 578
+       "x": 423,
+       "y": 17,
+       "w": 178,
+       "h": 104
       }
      },
-     "thumb": "files/7ff989e1205ff8ba.webp",
-     "layer": 9,
-     "set": "アニメ　その２/セット/エンジェルセット"
+     "thumb": "files/480d4319e2a84bb2.webp"
     },
     {
-     "id": "アニメ　その２/アクセサリー/ゆめのネックレス",
-     "name": "ゆめのネックレス",
+     "id": "アニメ　その２/アクセサリー/マフラー",
+     "name": "マフラー",
      "category": "アクセサリー",
      "image": {
-      "file": "files/b3a49acac1c0757f.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
+      "file": "files/8f2a81fb6b37ec60.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
       "box": {
-       "x": 567,
-       "y": 273,
-       "w": 96,
-       "h": 129
+       "x": 0,
+       "y": 0,
+       "w": 1024,
+       "h": 1024
       }
      },
-     "thumb": "files/5027dcd1673b4d41.webp",
-     "set": "アニメ　その２/セット/ゆめふわマーメイド"
+     "thumb": "files/86df8e074e545921.webp"
     },
     {
      "id": "アニメ　その２/ヘアスタイル/たかいポニーテール",
@@ -4688,40 +4462,21 @@
      "set": "アニメ　その２/セット/ゆめふわマーメイド"
     },
     {
-     "id": "アニメ　その２/ぼうし/きらきらティアラ",
-     "name": "きらきらティアラ",
-     "category": "ぼうし",
-     "image": {
-      "file": "files/e71e81e31ea02bde.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 540,
-       "y": 72,
-       "w": 157,
-       "h": 91
-      }
-     },
-     "thumb": "files/d590d017cb9635e6.webp",
-     "set": "アニメ　その２/セット/シンデレラセット"
-    },
-    {
-     "id": "アニメ　その２/アクセサリー/ほしのネックレス",
-     "name": "ほしのネックレス",
+     "id": "アニメ　その２/アクセサリー/眼鏡",
+     "name": "眼鏡",
      "category": "アクセサリー",
      "image": {
-      "file": "files/add098c094567985.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
+      "file": "files/33523f084deda94b.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
       "box": {
-       "x": 548,
-       "y": 273,
-       "w": 133,
-       "h": 163
+       "x": 458,
+       "y": 93,
+       "w": 110,
+       "h": 40
       }
      },
-     "thumb": "files/85cccfd695ae5aa8.webp",
-     "set": "アニメ　その２/セット/シンデレラセット"
+     "thumb": "files/f6e0e7c57f8a87d5.webp"
     },
     {
      "id": "アニメ　その２/ヘアスタイル/ふたつおだんご",
@@ -4868,33 +4623,33 @@
      "set": "アニメ　その２/セット/こあくまデビル"
     },
     {
-     "id": "アニメ　その２/くつ/デビルブーツ",
-     "name": "デビルブーツ",
+     "id": "アニメ　その２/くつ/しのびブーツ",
+     "name": "しのびブーツ",
      "category": "くつ",
      "image": {
-      "file": "files/042c821a14bd43cf.webp",
+      "file": "files/7d2dcaddb969b67f.webp",
       "canvasW": 1228,
       "canvasH": 1228,
       "box": {
-       "x": 546,
-       "y": 984,
-       "w": 138,
-       "h": 125
+       "x": 541,
+       "y": 802,
+       "w": 147,
+       "h": 307
       }
      },
-     "thumb": "files/524bc5a704c04a91.webp",
+     "thumb": "files/2b2b271b17f5e7b3.webp",
      "hide": {
-      "file": "files/c25927bdd7ce02df.webp",
+      "file": "files/65e79bc7d3604131.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 443,
+       "x": 442,
        "y": 934,
-       "w": 140,
+       "w": 141,
        "h": 73
       }
      },
-     "set": "アニメ　その２/セット/こあくまデビル"
+     "set": "アニメ　その２/セット/かわいいくノいちセット"
     },
     {
      "id": "アニメ　その２/ぼうし/つのカチューシャ",
@@ -4915,27 +4670,26 @@
      "set": "アニメ　その２/セット/こあくまデビル"
     },
     {
-     "id": "アニメ　その２/アクセサリー/こうもりのはね",
-     "name": "こうもりのはね",
+     "id": "アニメ　その２/アクセサリー/聴診器",
+     "name": "聴診器",
      "category": "アクセサリー",
      "image": {
-      "file": "files/3011ed1b65bf6238.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
+      "file": "files/39f41acdaa81bc4f.webp",
+      "canvasW": 1024,
+      "canvasH": 1024,
       "box": {
-       "x": 273,
-       "y": 234,
-       "w": 684,
-       "h": 281
+       "x": 455,
+       "y": 170,
+       "w": 111,
+       "h": 146
       }
      },
-     "thumb": "files/e119ff2af6fe9b52.webp",
-     "layer": -1
+     "thumb": "files/71ee303822f0d025.webp"
     },
     {
      "id": "アニメ　その２/トップス/かいがらビキニ",
      "name": "かいがらビキニ",
-     "category": "トップス",
+     "category": "インナー",
      "image": {
       "file": "files/0ce72ed33e404a68.webp",
       "canvasW": 1228,
@@ -4986,33 +4740,21 @@
      "set": "アニメ　その２/セット/かわいいくノいちセット"
     },
     {
-     "id": "アニメ　その２/くつ/しのびブーツ",
-     "name": "しのびブーツ",
+     "id": "アニメ　その２/くつ/もこもこブーツ",
+     "name": "もこもこブーツ",
      "category": "くつ",
      "image": {
-      "file": "files/7d2dcaddb969b67f.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 541,
-       "y": 802,
-       "w": 147,
-       "h": 307
-      }
-     },
-     "thumb": "files/2b2b271b17f5e7b3.webp",
-     "hide": {
-      "file": "files/65e79bc7d3604131.webp",
+      "file": "files/cb2741e88c6761d2.webp",
       "canvasW": 1024,
       "canvasH": 1024,
       "box": {
-       "x": 442,
-       "y": 934,
-       "w": 141,
-       "h": 73
+       "x": 415,
+       "y": 750,
+       "w": 198,
+       "h": 263
       }
      },
-     "set": "アニメ　その２/セット/かわいいくノいちセット"
+     "thumb": "files/7e782279a94384d5.webp"
     },
     {
      "id": "アニメ　その２/ぼうし/さくらはちまき",
@@ -5030,24 +4772,6 @@
       }
      },
      "thumb": "files/b87879a98ad408aa.webp",
-     "set": "アニメ　その２/セット/かわいいくノいちセット"
-    },
-    {
-     "id": "アニメ　その２/アクセサリー/きらきらしゅりけん",
-     "name": "きらきらしゅりけん",
-     "category": "アクセサリー",
-     "image": {
-      "file": "files/e7b61d5c4996cfb6.webp",
-      "canvasW": 1228,
-      "canvasH": 1228,
-      "box": {
-       "x": 616,
-       "y": 492,
-       "w": 160,
-       "h": 309
-      }
-     },
-     "thumb": "files/beb4338ea311d9d2.webp",
      "set": "アニメ　その２/セット/かわいいくノいちセット"
     },
     {
@@ -5153,7 +4877,26 @@
        "h": 62
       }
      },
-     "thumb": "files/f8b767d2de59b929.webp"
+     "thumb": "files/f8b767d2de59b929.webp",
+     "set": "アニメ　その２/セット/エンジェルセット"
+    },
+    {
+     "id": "アニメ　その２/アクセサリー/きらきらしゅりけん",
+     "name": "きらきらしゅりけん",
+     "category": "アクセサリー",
+     "image": {
+      "file": "files/e7b61d5c4996cfb6.webp",
+      "canvasW": 1228,
+      "canvasH": 1228,
+      "box": {
+       "x": 616,
+       "y": 492,
+       "w": 160,
+       "h": 309
+      }
+     },
+     "thumb": "files/beb4338ea311d9d2.webp",
+     "set": "アニメ　その２/セット/かわいいくノいちセット"
     }
    ],
    "backgrounds": [
@@ -5313,7 +5056,8 @@
      "id": "アニメ　その２/セット/チアガール",
      "name": "チアガール"
     }
-   ]
+   ],
+   "setsOrder": 11
   },
   {
    "id": "おとこのこ",
